@@ -320,6 +320,14 @@ public class GameManager : MonoBehaviour {
         events.ScoreUpdated?.Invoke();
     }
 
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene("Start Menu");
+        }
+    }
+
     #region Getters
 
     Question GetRandomQuestion()
