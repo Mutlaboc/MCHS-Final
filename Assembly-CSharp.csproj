@@ -58,18 +58,16 @@
     <Compile Include="Assets\Scripts\Mono\GameManager.cs" />
     <Compile Include="Assets\Scripts\Mono\UIManager.cs" />
     <Compile Include="Assets\Scripts\Utility\GameUtility.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Mono\AudioManager.cs" />
     <Compile Include="Assets\Scripts\ScriptableObject\Question.cs" />
-    <Compile Include="Assets\Scripts\MainMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\Q1.xml" />
-    <None Include="Assets\Q2.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\Q.xml" />
+    <None Include="Assets\Q1.xml" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />

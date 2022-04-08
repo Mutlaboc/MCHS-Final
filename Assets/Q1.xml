@@ -2,54 +2,91 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Questions>
     <Question>
-      <Info>Choose correct answer:</Info>
+      <Info>В качестве источников противопожарного водоснабжения согласно требованиям Технического регламента о требованиях пожарной безопасности могут использоваться:</Info>
       <Answers>
         <Answer>
-          <Info>Robots are Humans</Info>
+          <Info>внутренний и наружный </Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Car is a vehicle</Info>
+          <Info>естественные и искусственные водоемы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>естественные и искусственные водоемы, а также внутренний водопровод </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>искусственные водоемы, внутренний и наружный водопроводы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>естественные и искусственные водоемы, а также внутренний и наружный водопроводы</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
       </Answers>
-      <UseTimer>true</UseTimer>
-      <Timer>25</Timer>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
       <Type>Single</Type>
-      <AddScore>10</AddScore>
+      <AddScore>1</AddScore>
     </Question>
     <Question>
-      <Info>Choose food:</Info>
+      <Info>Необходимость устройства искусственных водоемов, использования естественных водоемов, а также их параметры определяются </Info>
       <Answers>
         <Answer>
-          <Info>Rice</Info>
+          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Spaghetti</Info>
-          <IsCorrect>true</IsCorrect>
-        </Answer>
-        <Answer>
-          <Info>Cardboard</Info>
+          <Info>СП 8.13130.2020</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Salad</Info>
-          <IsCorrect>true</IsCorrect>
-        </Answer>
-        <Answer>
-          <Info>Stone</Info>
+          <Info>СП 10.13130.2020</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Glasses</Info>
+          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Все ответы верны</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
-      <UseTimer>true</UseTimer>
-      <Timer>10</Timer>
-      <Type>Multi</Type>
-      <AddScore>25</AddScore>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+    </Question>
+    <Question>
+      <Info>Необходимость устройства противопожарного водопровода, а также их параметры определяются</Info>
+      <Answers>
+        <Answer>
+          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 8.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 10.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Все ответы верны</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
     </Question>
   </Questions>
 </Data>
