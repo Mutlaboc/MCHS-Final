@@ -12,7 +12,9 @@ public class GameUtility {
     {
         get
         {
-            return Application.dataPath + "/";
+            // return Application.dataPath + "/Resources/";
+             return Application.streamingAssetsPath;
+            // return "jar:file://" + Application.dataPath + "!/assets;";
         }
     }
 }

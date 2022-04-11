@@ -152,11 +152,11 @@ public class GameManager : MonoBehaviour {
         bool isCorrect = CheckAnswers();
         FinishedQuestions.Add(currentQuestion);
 
-        UpdateScore(isCorrect ? data.Questions[currentQuestion].AddScore : -data.Questions[currentQuestion].AddScore);
+        UpdateScore(isCorrect ? data.Questions[currentQuestion].AddScore : 0);
 
         if (IsFinished)
         {
-            events.level++;
+            events.level = 1;
             if (events.level > GameEvents.maxLevel)
             {
                 events.level = 1;
@@ -275,8 +275,11 @@ public class GameManager : MonoBehaviour {
     /// </summary>
     void LoadData()
     {
-        var path = Path.Combine(GameUtility.FileDir, GameUtility.FileName + events.level + ".xml");
+      var path = Path.Combine(GameUtility.FileDir, GameUtility.FileName + ".xml");
+        // data = Data.Fetch(path);
         data = Data.Fetch(path);
+        //TextAsset dataRaw = Resources.Load<TextAsset>("Q.xml") as TextAsset;
+
     }
 
     /// <summary>
@@ -319,6 +322,10 @@ public class GameManager : MonoBehaviour {
         events.CurrentFinalScore += add;
         events.ScoreUpdated?.Invoke();
     }
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene("Start Menu");
+    }
 
     void Update()
     {
@@ -326,6 +333,8 @@ public class GameManager : MonoBehaviour {
         {
             SceneManager.LoadScene("Start Menu");
         }
+
+
     }
 
     #region Getters

@@ -19,6 +19,10 @@ public struct UIManagerParameters
     public Color IncorrectBGColor { get { return incorrectBGColor; } }
     [SerializeField] Color finalBGColor;
     public Color FinalBGColor { get { return finalBGColor; } }
+
+    [SerializeField] int scoreRequirement;
+    public int ScoreRequirement { get { return scoreRequirement; } }
+    
 }
 [Serializable()]
 public struct UIElements
@@ -158,17 +162,26 @@ public class UIManager : MonoBehaviour {
         {
             case ResolutionScreenType.Correct:
                 uIElements.ResolutionBG.color = parameters.CorrectBGColor;
-                uIElements.ResolutionStateInfoText.text = "CORRECT!";
-                uIElements.ResolutionScoreText.text = "+" + score;
+                uIElements.ResolutionStateInfoText.text = "Ответ принят!";
+                //  uIElements.ResolutionScoreText.text = "+" + score;
                 break;
             case ResolutionScreenType.Incorrect:
-                uIElements.ResolutionBG.color = parameters.IncorrectBGColor;
-                uIElements.ResolutionStateInfoText.text = "WRONG!";
-                uIElements.ResolutionScoreText.text = "-" + score;
+                uIElements.ResolutionBG.color = parameters.CorrectBGColor;
+                uIElements.ResolutionStateInfoText.text = "Ответ принят!";
+                // uIElements.ResolutionScoreText.text = "-" + score;
                 break;
             case ResolutionScreenType.Finish:
-                uIElements.ResolutionBG.color = parameters.FinalBGColor;
-                uIElements.ResolutionStateInfoText.text = "FINAL SCORE";
+
+                if (events.CurrentFinalScore >= parameters.ScoreRequirement)
+                {
+                    uIElements.ResolutionBG.color = parameters.FinalBGColor;
+                    uIElements.ResolutionStateInfoText.text = "Тестирование успешно пройдено ";
+                }
+                else
+                {
+                    uIElements.ResolutionBG.color = parameters.IncorrectBGColor;
+                    uIElements.ResolutionStateInfoText.text = "Тестирование не пройдено";
+                }
 
                 StartCoroutine(CalculateScore());
                 uIElements.FinishUIElements.gameObject.SetActive(true);
