@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311912, g: 0.3807398, b: 0.3587272, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311992, g: 0.38074034, b: 0.35872713, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1496,8 +1496,8 @@ MonoBehaviour:
     finishUIElements: {fileID: 383148144}
   parameters:
     margins: 15
-    correctBGColor: {r: 0.18431373, g: 0.76470596, b: 0.14901961, a: 1}
-    incorrectBGColor: {r: 0.76470596, g: 0.15686275, b: 0.14901961, a: 1}
+    correctBGColor: {r: 0.18431373, g: 0.76470596, b: 0.14901961, a: 0}
+    incorrectBGColor: {r: 0.76470596, g: 0.15686275, b: 0.14901961, a: 0}
     finalBGColor: {r: 0.14901961, g: 0.5058824, b: 0.76470596, a: 1}
     scoreRequirement: 40
 --- !u!114 &849180835
@@ -2076,21 +2076,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: CorrectSFX
-    clip: {fileID: 8300000, guid: 4e7d2ed2bd3ce174aa8495737ade87dc, type: 3}
+    clip: {fileID: 0}
     parameters:
       Volume: 0.4
       Pitch: 1
       Loop: 0
     Source: {fileID: 0}
   - name: IncorrectSFX
-    clip: {fileID: 8300000, guid: 4e7d2ed2bd3ce174aa8495737ade87dc, type: 3}
+    clip: {fileID: 0}
     parameters:
       Volume: 0.4
       Pitch: 1
       Loop: 0
     Source: {fileID: 0}
   - name: CountdownSFX
-    clip: {fileID: 8300000, guid: 20f8537e455b1a945a15ba1a454c7517, type: 3}
+    clip: {fileID: 0}
     parameters:
       Volume: 0.4
       Pitch: 0.85
