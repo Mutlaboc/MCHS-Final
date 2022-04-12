@@ -30,6 +30,10 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Start Menu");
     }
+    public void LoadAuthor()
+    {
+        SceneManager.LoadScene("Authors");
+    }
     public void QuitApp()
     {
         Application.Quit();

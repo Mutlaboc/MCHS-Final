@@ -179,7 +179,7 @@ public class UIManager : MonoBehaviour {
                 }
                 else
                 {
-                    uIElements.ResolutionBG.color = parameters.IncorrectBGColor;
+                    uIElements.ResolutionBG.color = parameters.FinalBGColor;
                     uIElements.ResolutionStateInfoText.text = "Тестирование не пройдено";
                 }
 

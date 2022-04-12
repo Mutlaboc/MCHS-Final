@@ -28,6 +28,8 @@ public class GameManager : MonoBehaviour {
 
     private             IEnumerator         IE_WaitTillNextRound    = null;
     private             IEnumerator         IE_StartTimer           = null;
+    public bool useTimer = true;
+    public int timerCount = 2400;
 
     private             bool                IsFinished
     {
@@ -81,6 +83,10 @@ public class GameManager : MonoBehaviour {
         UnityEngine.Random.InitState(seed);
 
         Display();
+        if (useTimer == true)
+        {
+            UpdateTimer(useTimer);
+        }
     }
 
     #endregion
@@ -137,10 +143,10 @@ public class GameManager : MonoBehaviour {
             events.UpdateQuestionUI(question);
         } else { Debug.LogWarning("Ups! Something went wrong while trying to display new Question UI Data. GameEvents.UpdateQuestionUI is null. Issue occured in GameManager.Display() method."); }
 
-        if (question.UseTimer)
-        {
-            UpdateTimer(question.UseTimer);
-        }
+     //  if (useTimer == true)
+       // {
+      //      UpdateTimer(useTimer);
+      //  }
     }
 
     /// <summary>
@@ -148,7 +154,7 @@ public class GameManager : MonoBehaviour {
     /// </summary>
     public void Accept()
     {
-        UpdateTimer(false);
+      //  UpdateTimer(false);
         bool isCorrect = CheckAnswers();
         FinishedQuestions.Add(currentQuestion);
 
@@ -209,7 +215,7 @@ public class GameManager : MonoBehaviour {
     }
     IEnumerator StartTimer()
     {
-        var totalTime = data.Questions[currentQuestion].Timer;
+        var totalTime = timerCount;
         var timeLeft = totalTime;
 
         timerText.color = timerDefaultColor;
@@ -227,8 +233,10 @@ public class GameManager : MonoBehaviour {
             {
                 timerText.color = timerAlmostOutColor;
             }
+            float minutes = Mathf.FloorToInt(timeLeft / 60);
+            float seconds = Mathf.FloorToInt(timeLeft % 60);
 
-            timerText.text = timeLeft.ToString();
+            timerText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
             yield return new WaitForSeconds(1.0f);
         }
         Accept();

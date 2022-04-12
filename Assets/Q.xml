@@ -2,26 +2,26 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Questions>
     <Question>
-      <Info>В качестве источников противопожарного водоснабжения согласно требованиям Технического регламента о требованиях пожарной безопасности могут использоваться:</Info>
+      <Info>Какой высотой складирования грузов ограничивается применение                                 СП 485.1311500.2020 в зданиях складов</Info>
       <Answers>
         <Answer>
-          <Info>внутренний и наружный </Info>
+          <Info>25 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы</Info>
+          <Info>16 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы, а также внутренний водопровод </Info>
+          <Info>12 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>искусственные водоемы, внутренний и наружный водопроводы</Info>
+          <Info>9 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы, а также внутренний и наружный водопроводы</Info>
+          <Info>5,5 м</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
       </Answers>
@@ -29,28 +29,31 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 1.3 Настоящий свод правил не распространяется на проектирование установок пожаротушения автоматических: - зданий складов с высотой складирования грузов более 5,5 м.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>1</CountNumber>
     </Question>
     <Question>
-      <Info>Необходимость устройства искусственных водоемов, использования естественных водоемов, а также их параметры определяются </Info>
+      <Info>На какое количество пожаров в здании рассчитывается автоматическая установка пожаротушения в зависимости от количества помещений или пожарных отсеков</Info>
       <Answers>
         <Answer>
-          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <Info>1</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 8.13130.2020</Info>
+          <Info>2</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 10.13130.2020</Info>
+          <Info>3</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <Info>4</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Все ответы верны</Info>
+          <Info>5</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
@@ -58,28 +61,119 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 5.6 При проектировании АУП для защищаемого здания, сооружения независимо от количества входящих в него помещений или пожарных отсеков принимается один пожар, если иное не указано в техническом задании на проектирование.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>2</CountNumber>
     </Question>
     <Question>
-      <Info>Необходимость устройства противопожарного водопровода, а также их параметры определяются</Info>
+      <Info>Какие способы тушения обеспечивают установки водяного пожаротушения</Info>
       <Answers>
         <Answer>
-          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <Info>Поверхностное</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 8.13130.2020</Info>
+          <Info>Объемное</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 10.13130.2020</Info>
+          <Info>Локально-поверхностное</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Локально-объемное</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Multi</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.1 Водяные и пенные (низкой и средней кратности) АУП применяются для поверхностного и локально-поверхностного тушения пожара.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>3</CountNumber>
+    </Question>
+    <Question>
+      <Info>На сколько групп разбиты помещения по степени опасности развития пожара в зависимости от их функционального назначения и величины пожарной нагрузки</Info>
+      <Answers>
+        <Answer>
+          <Info>2 группы</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <Info>4 группы</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Все ответы верны</Info>
+          <Info>6 групп</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info> 7 групп</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8 групп</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>В таблице А.1 Приложения А к СП 485.1311500.2020 перечислены 8 групп помещений. СП 485.1311500.2020 Приложение А Таблица А.1 Группы помещений (производств и технологических процессов) по степени опасности развития пожара в зависимости от их функционального назначения и величины пожарной нагрузки горючих материалов: 1, 2, 3, 4.1, 4.2, 5, 6, 7.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>4</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая продолжительность подачи воды допускается для агрегатных установок водяного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>15 мин.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 мин.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 мин.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 мин.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Multi</Type>
+      <AddScore>1</AddScore>
+      <Comments>Авторы текста, видимо, забыли указать в вопросе дополнительную вводную с группой помещения, что способствовало бы нахождению точного ответа. Кроме того, в вопросе явно отсутствует слово «минимальная», из-за чего для группы помещений будут верны три ответа – 30, 45 и 60 минут. Однако, мы стараемся дать ответ на тот вопрос, который сформулирован. СП 485.1311500.2020 Пункт 6.4.6 Алгоритм гидравлического расчета агрегатных АУП-ТРВ НД соответствует алгоритму, приведенному в методике (приложение Б). Приложение Б Пункт Б1.3.14 С учетом выбранной группы объекта защиты (приложение А) по таблице 6.1 принимают продолжительность подачи огнетушащего вещества. Таблица 6.1 Продолжительность подачи воды не менее: - 30 минут для помещений группы 1; - 60 минут для помещений групп 2-6.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>5</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое максимальное расстояние допускается между спринклерными оросителями</Info>
+      <Answers>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,5 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
@@ -87,6 +181,169 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Таблица 6.1 Максимальное расстояние между спринклерными оросителями: - 3,5 м для помещений групп 1-4.1; - 3 м для помещений групп 4.2-7.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>6</CountNumber>
+    </Question>
+    <Question>
+      <Info>Во сколько раз снижается эффективность орошения при использовании пенообразователя общего назначения </Info>
+      <Answers>
+        <Answer>
+          <Info>1,2 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5 раз</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 раз</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,0 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,5 раз</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>Авторы текста, видимо, ошибочно использовали в вопросе слово «эффективность», вместо «интенсивность». В результате чего вопрос стал просто несовместим с ответом. Применение пенообразователя на самом деле повышает эффективность тушения. Но мы стараемся дать ответы на вопросы теста и ищем их с опорой на нормативные документы. СП 485.1311500.2020 Таблица 6.1 Примечание 2 Для установок пожаротушения, в которых используется вода с добавкой смачивателя на основе пенообразователя общего назначения, интенсивность орошения и расход принимаются в 1,5 раза меньше, чем для водяных.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>7</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое расстояние допускается между оросителем и верхней точкой пожарной нагрузки или технологического оборудования</Info>
+      <Answers>
+        <Answer>
+          <Info>0,9 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Определяется формой потока распыленных струй</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.14 Расстояние между оросителем и верхней точкой пожарной нагрузки, технологического оборудования или строительных конструкций определяется с учетом диапазона рабочего гидравлического давления и соответствующей ему формы потока распыленных струй.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>8</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое минимальное расстояние допускается между спринклерными оросителями</Info>
+      <Answers>
+        <Answer>
+          <Info>0,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Определяется формой потока распыленных струй</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.2.21 Расстояние между спринклерными оросителями установок водяного пожаротушения должно быть не менее 1,5 м (по горизонтали).</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>9</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком расстоянии от диктующего оросителя следует предусматривать  заглушку или нормальный закрытый кран</Info>
+      <Answers>
+        <Answer>
+          <Info>4 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>(3-10) см</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.17 У диктующего(их) оросителя(ей) (на расстоянии от него (3 - 10) см) всех видов АУП рекомендуется предусмотреть заглушку или нормально закрытый кран.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>10</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какой высоте, более указанной, не допускается устанавливать спринклерные оросители</Info>
+      <Answers>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1.5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.17 У диктующего(их) оросителя(ей) (на расстоянии от него (3 - 10) см) всех видов АУП рекомендуется предусмотреть заглушку или нормально закрытый кран.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>10</CountNumber>
     </Question>
   </Questions>
 </Data>

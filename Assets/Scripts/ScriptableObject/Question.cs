@@ -20,6 +20,9 @@ public class Question {
     public Int32        Timer       = 0;
     public AnswerType   Type        = AnswerType.Single;
     public Int32        AddScore    = 0;
+    public String       Comments    = null;
+    public Int32        Chapter     = 0;
+    public Int32        CountNumber = 0;
 
     public Question () { }
 
