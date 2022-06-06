@@ -30,12 +30,13 @@ public class GameManager : MonoBehaviour {
     private             IEnumerator         IE_StartTimer           = null;
     public bool useTimer = true;
     public int timerCount = 2400;
-
+    public int quizLenght = 40;
+    AnswerData answerDataCheked;
     private             bool                IsFinished
     {
         get
         {
-            return (FinishedQuestions.Count < data.Questions.Length) ? false : true;
+            return (FinishedQuestions.Count < quizLenght) ? false : true;
         }
     }
 
@@ -143,10 +144,11 @@ public class GameManager : MonoBehaviour {
             events.UpdateQuestionUI(question);
         } else { Debug.LogWarning("Ups! Something went wrong while trying to display new Question UI Data. GameEvents.UpdateQuestionUI is null. Issue occured in GameManager.Display() method."); }
 
+     // Таймер отключен при смене вопросов, но код оставил, на всякий. 
      //  if (useTimer == true)
-       // {
-      //      UpdateTimer(useTimer);
-      //  }
+     // {
+     //      UpdateTimer(useTimer);
+     //  }
     }
 
     /// <summary>
@@ -154,40 +156,47 @@ public class GameManager : MonoBehaviour {
     /// </summary>
     public void Accept()
     {
-      //  UpdateTimer(false);
-        bool isCorrect = CheckAnswers();
-        FinishedQuestions.Add(currentQuestion);
-
-        UpdateScore(isCorrect ? data.Questions[currentQuestion].AddScore : 0);
-
-        if (IsFinished)
+        answerDataCheked = GameObject.Find("AnswerPrefab(Clone)").GetComponent<AnswerData>();
+        //  UpdateTimer(false);
+       if (answerDataCheked.Checked == true)
         {
-            events.level = 1;
-            if (events.level > GameEvents.maxLevel)
+        bool isCorrect = CheckAnswers();
+            FinishedQuestions.Add(currentQuestion);
+
+            UpdateScore(isCorrect ? data.Questions[currentQuestion].AddScore : 0);
+
+            if (IsFinished)
             {
                 events.level = 1;
+                if (events.level > GameEvents.maxLevel)
+                {
+                    events.level = 1;
+                }
+                SetHighscore();
             }
-            SetHighscore();
-        }
 
-        var type 
-            = (IsFinished) 
-            ? UIManager.ResolutionScreenType.Finish 
-            : (isCorrect) ? UIManager.ResolutionScreenType.Correct 
-            : UIManager.ResolutionScreenType.Incorrect;
+            var type
+                = (IsFinished)
+                ? UIManager.ResolutionScreenType.Finish
+                : (isCorrect) ? UIManager.ResolutionScreenType.Correct
+                : UIManager.ResolutionScreenType.Incorrect;
 
-        events.DisplayResolutionScreen?.Invoke(type, data.Questions[currentQuestion].AddScore);
+            events.DisplayResolutionScreen?.Invoke(type, data.Questions[currentQuestion].AddScore);
 
-        AudioManager.Instance.PlaySound((isCorrect) ? "CorrectSFX" : "IncorrectSFX");
+            AudioManager.Instance.PlaySound((isCorrect) ? "CorrectSFX" : "IncorrectSFX");
 
-        if (type != UIManager.ResolutionScreenType.Finish)
-        {
-            if (IE_WaitTillNextRound != null)
+            if (type != UIManager.ResolutionScreenType.Finish)
             {
-                StopCoroutine(IE_WaitTillNextRound);
+                if (IE_WaitTillNextRound != null)
+                {
+                    StopCoroutine(IE_WaitTillNextRound);
+                }
+                IE_WaitTillNextRound = WaitTillNextRound();
+                StartCoroutine(IE_WaitTillNextRound);
             }
-            IE_WaitTillNextRound = WaitTillNextRound();
-            StartCoroutine(IE_WaitTillNextRound);
+        }
+        else
+        { AudioManager.Instance.PlaySound("IncorrectSFX");
         }
     }
 

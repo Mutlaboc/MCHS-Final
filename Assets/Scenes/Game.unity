@@ -1497,7 +1497,7 @@ MonoBehaviour:
   parameters:
     margins: 15
     correctBGColor: {r: 0.18431373, g: 0.76470596, b: 0.14901961, a: 0}
-    incorrectBGColor: {r: 0.76470596, g: 0.15686275, b: 0.14901961, a: 0}
+    incorrectBGColor: {r: 0.76470596, g: 0.15686275, b: 0.14901961, a: 1}
     finalBGColor: {r: 0.14901961, g: 0.5058824, b: 0.76470596, a: 1}
     scoreRequirement: 40
 --- !u!114 &849180835
@@ -1519,6 +1519,7 @@ MonoBehaviour:
   timerAlmostOutColor: {r: 1, g: 0, b: 0, a: 1}
   useTimer: 1
   timerCount: 2400
+  quizLenght: 2
 --- !u!1 &1046550945
 GameObject:
   m_ObjectHideFlags: 0
@@ -1689,7 +1690,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'HIGHSCORE: 125'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3a65b9b691092d24f85cf54adcd3bd1b, type: 2}
   m_sharedMaterial: {fileID: 21641202490330990, guid: 3a65b9b691092d24f85cf54adcd3bd1b,
@@ -2167,8 +2168,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 3a65b9b691092d24f85cf54adcd3bd1b, type: 2}
-  m_sharedMaterial: {fileID: 21641202490330990, guid: 3a65b9b691092d24f85cf54adcd3bd1b,
+  m_fontAsset: {fileID: 11400000, guid: d2d5d2c9a7ebd7f49910874db3c8a596, type: 2}
+  m_sharedMaterial: {fileID: -5025476421979485738, guid: d2d5d2c9a7ebd7f49910874db3c8a596,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

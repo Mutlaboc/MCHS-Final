@@ -2,26 +2,26 @@
 <Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Questions>
     <Question>
-      <Info>В качестве источников противопожарного водоснабжения согласно требованиям Технического регламента о требованиях пожарной безопасности могут использоваться:</Info>
+      <Info>Какой высотой складирования грузов ограничивается применение                                 СП 485.1311500.2020 в зданиях складов</Info>
       <Answers>
         <Answer>
-          <Info>внутренний и наружный </Info>
+          <Info>25 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы</Info>
+          <Info>16 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы, а также внутренний водопровод </Info>
+          <Info>12 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>искусственные водоемы, внутренний и наружный водопроводы</Info>
+          <Info>9 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>естественные и искусственные водоемы, а также внутренний и наружный водопроводы</Info>
+          <Info>5,5 м</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
       </Answers>
@@ -29,28 +29,31 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 1.3 Настоящий свод правил не распространяется на проектирование установок пожаротушения автоматических: - зданий складов с высотой складирования грузов более 5,5 м.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>1</CountNumber>
     </Question>
     <Question>
-      <Info>Необходимость устройства искусственных водоемов, использования естественных водоемов, а также их параметры определяются </Info>
+      <Info>На какое количество пожаров в здании рассчитывается автоматическая установка пожаротушения в зависимости от количества помещений или пожарных отсеков</Info>
       <Answers>
         <Answer>
-          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <Info>1</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 8.13130.2020</Info>
+          <Info>2</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 10.13130.2020</Info>
+          <Info>3</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <Info>4</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Все ответы верны</Info>
+          <Info>5</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
@@ -58,28 +61,119 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 5.6 При проектировании АУП для защищаемого здания, сооружения независимо от количества входящих в него помещений или пожарных отсеков принимается один пожар, если иное не указано в техническом задании на проектирование.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>2</CountNumber>
     </Question>
     <Question>
-      <Info>Необходимость устройства противопожарного водопровода, а также их параметры определяются</Info>
+      <Info>Какие способы тушения обеспечивают установки водяного пожаротушения</Info>
       <Answers>
         <Answer>
-          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <Info>Поверхностное</Info>
           <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 8.13130.2020</Info>
+          <Info>Объемное</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>СП 10.13130.2020</Info>
+          <Info>Локально-поверхностное</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Локально-объемное</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Multi</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.1 Водяные и пенные (низкой и средней кратности) АУП применяются для поверхностного и локально-поверхностного тушения пожара.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>3</CountNumber>
+    </Question>
+    <Question>
+      <Info>На сколько групп разбиты помещения по степени опасности развития пожара в зависимости от их функционального назначения и величины пожарной нагрузки</Info>
+      <Answers>
+        <Answer>
+          <Info>2 группы</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <Info>4 группы</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>Все ответы верны</Info>
+          <Info>6 групп</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info> 7 групп</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8 групп</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>В таблице А.1 Приложения А к СП 485.1311500.2020 перечислены 8 групп помещений. СП 485.1311500.2020 Приложение А Таблица А.1 Группы помещений (производств и технологических процессов) по степени опасности развития пожара в зависимости от их функционального назначения и величины пожарной нагрузки горючих материалов: 1, 2, 3, 4.1, 4.2, 5, 6, 7.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>4</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая продолжительность подачи воды допускается для агрегатных установок водяного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>15 мин.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 мин.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 мин.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 мин.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Multi</Type>
+      <AddScore>1</AddScore>
+      <Comments>Авторы текста, видимо, забыли указать в вопросе дополнительную вводную с группой помещения, что способствовало бы нахождению точного ответа. Кроме того, в вопросе явно отсутствует слово «минимальная», из-за чего для группы помещений будут верны три ответа – 30, 45 и 60 минут. Однако, мы стараемся дать ответ на тот вопрос, который сформулирован. СП 485.1311500.2020 Пункт 6.4.6 Алгоритм гидравлического расчета агрегатных АУП-ТРВ НД соответствует алгоритму, приведенному в методике (приложение Б). Приложение Б Пункт Б1.3.14 С учетом выбранной группы объекта защиты (приложение А) по таблице 6.1 принимают продолжительность подачи огнетушащего вещества. Таблица 6.1 Продолжительность подачи воды не менее: - 30 минут для помещений группы 1; - 60 минут для помещений групп 2-6.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>5</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое максимальное расстояние допускается между спринклерными оросителями</Info>
+      <Answers>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4,5 м</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
@@ -87,6 +181,1425 @@
       <Timer>0</Timer>
       <Type>Single</Type>
       <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Таблица 6.1 Максимальное расстояние между спринклерными оросителями: - 3,5 м для помещений групп 1-4.1; - 3 м для помещений групп 4.2-7.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>6</CountNumber>
+    </Question>
+    <Question>
+      <Info>Во сколько раз снижается эффективность орошения при использовании пенообразователя общего назначения </Info>
+      <Answers>
+        <Answer>
+          <Info>1,2 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5 раз</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 раз</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,0 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,5 раз</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>Авторы текста, видимо, ошибочно использовали в вопросе слово «эффективность», вместо «интенсивность». В результате чего вопрос стал просто несовместим с ответом. Применение пенообразователя на самом деле повышает эффективность тушения. Но мы стараемся дать ответы на вопросы теста и ищем их с опорой на нормативные документы. СП 485.1311500.2020 Таблица 6.1 Примечание 2 Для установок пожаротушения, в которых используется вода с добавкой смачивателя на основе пенообразователя общего назначения, интенсивность орошения и расход принимаются в 1,5 раза меньше, чем для водяных.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>7</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое расстояние допускается между оросителем и верхней точкой пожарной нагрузки или технологического оборудования</Info>
+      <Answers>
+        <Answer>
+          <Info>0,9 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Определяется формой потока распыленных струй</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.14 Расстояние между оросителем и верхней точкой пожарной нагрузки, технологического оборудования или строительных конструкций определяется с учетом диапазона рабочего гидравлического давления и соответствующей ему формы потока распыленных струй.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>8</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое минимальное расстояние допускается между спринклерными оросителями</Info>
+      <Answers>
+        <Answer>
+          <Info>0,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,0 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Определяется формой потока распыленных струй</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.2.21 Расстояние между спринклерными оросителями установок водяного пожаротушения должно быть не менее 1,5 м (по горизонтали).</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>9</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком расстоянии от диктующего оросителя следует предусматривать  заглушку или нормальный закрытый кран</Info>
+      <Answers>
+        <Answer>
+          <Info>4 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 см</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>(3-10) см</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Пункт 6.1.17 У диктующего(их) оросителя(ей) (на расстоянии от него (3 - 10) см) всех видов АУП рекомендуется предусмотреть заглушку или нормально закрытый кран.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>10</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какой высоте, более указанной, не допускается устанавливать спринклерные оросители</Info>
+      <Answers>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1.5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>6.2.2 Спринклерные оросители, предназначенные для тушения пожара и создания водяных завес, не должны монтироваться в помещениях на высоте более 20 м, за исключением установок, предназначенных для защиты конструктивных элементов покрытий и перекрытий зданий и сооружений; для защиты конструктивных элементов покрытий и перекрытий зданий и сооружений параметры установок для помещений высотой более 20 м следует принимать по 1-й группе помещений (см. таблицу 6.1)</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>11</CountNumber>
+    </Question>
+    <Question>
+      <Info>Для помещений какой максимальной высоты допускается применение дренчерных или спринклерных с принудительным пуском установок пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>35 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>40 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>п. 6.5.2</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>12</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое количество спринклерных оросителей допускается устанавливать в одной секции автоматической установки пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>600 шт.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>800 шт.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1000 шт.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1200 шт.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1400 шт.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>п. 6.2.3.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>13</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое время, менее указанного, должно быть с момента срабатывания диктующего спринклерного оросителя, установленного на воздухозаполненном трубопроводе до начала подачи огнетушащего вещества</Info>
+      <Answers>
+        <Answer>
+          <Info>120 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>180 с</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>200 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>220 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>240 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>п. 6.4.2.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>14</CountNumber>
+    </Question>
+    <Question>
+      <Info>На сколько МПа должно произойти падение минимального рабочего давления в системе трубопроводов для поступления сигнала на отключение жокей-насоса</Info>
+      <Answers>
+        <Answer>
+          <Info>0,04 МПа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,05 МПа</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,06 МПа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,07 МПа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,08 МПа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.2.8 сп 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>15</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое максимальное расстояние допускается от термочувствительного элемента теплового замка спринклерного оросителя общего назначения до плоскости перекрытия или покрытия</Info>
+      <Answers>
+        <Answer>
+          <Info>0,2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,3 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,4 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,6 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.2.11 сп 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>16</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое максимальное расстояние допускается от термочувствительного элемента теплового замка настенного  спринклерного оросителя до плоскости перекрытия или покрытия </Info>
+      <Answers>
+        <Answer>
+          <Info>0,1 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,15 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,25 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.2.12 сп 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>17</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая предельно допустимая рабочая температура среды может быть в зоне расположения спринклерных оросителей с температурой срабатывания 68оС</Info>
+      <Answers>
+        <Answer>
+          <Info>30 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>35 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>40 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50 С</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.2.16 сп 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>18</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какова продолжительность действия водяных завес для групп помещений 2-6</Info>
+      <Answers>
+        <Answer>
+          <Info>15 мин</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 мин</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 мин</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 мин</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>90 мин</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.3.6 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>19</CountNumber>
+    </Question>
+    <Question>
+      <Info>При какой ширине защищаемых технологических дверных и иных проемов распределительный трубопровод выполняется в одну нитку при удельном расходе 1 л/(с·м)</Info>
+      <Answers>
+        <Answer>
+          <Info>до 2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 4 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 6 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.3.10 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>20</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой уклон должен быть в сторону спуска воды для труб диаметром DN 50 и более при прокладке трубопроводов </Info>
+      <Answers>
+        <Answer>
+          <Info>0,001</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,002</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,003</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,004</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,005</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.7.1.21 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>21</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой должна быть длина наружного и внутреннего трубопровода, подводящего воду к насосной установке</Info>
+      <Answers>
+        <Answer>
+          <Info>100 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>200 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>300 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>400 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>500 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.7.1.4 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>22</CountNumber>
+    </Question>
+    <Question>
+      <Info>В какой цвет должны быть окрашены водозаполненные автоматические установки пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Белый</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Голубой</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Синий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Зеленый</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Красный</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.7.1.4 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>23</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое расстояние до пожарной нагрузки допускается  при установке узлов управления в специальных шкафах  при размещении их в защищаемых помещениях</Info>
+      <Answers>
+        <Answer>
+          <Info>1 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.8.3 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>24</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая задержка во времени должна быть обеспечена при срабатывании сигнального клапана водозаполненной спринклерной установки для исключения выдачи ложного сигнала срабатывания</Info>
+      <Answers>
+        <Answer>
+          <Info>5 с</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>7 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 6.8.5 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>25</CountNumber>
+    </Question>
+    <Question>
+      <Info>Автоматические установки газового пожаротушения применяются для ликвидации пожаров классов</Info>
+      <Answers>
+        <Answer>
+          <Info>А и В</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>А, В, С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>А, В, Е.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 9.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>26</CountNumber>
+    </Question>
+    <Question>
+      <Info>Запрещается применение установок объемного углекислотного (СО2) пожаротушения в помещениях</Info>
+      <Answers>
+        <Answer>
+          <Info>Которые не могут быть покинуты людьми до начала работы установки.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>С пребыванием более 50 человек.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Которые не могут быть покинуты людьми до начала работы установки и в помещениях с пребыванием более 50 человек.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 9.1.2. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>27</CountNumber>
+    </Question>
+    <Question>
+      <Info>Как установки газового пожаротушения подразделяются по способу включения</Info>
+      <Answers>
+        <Answer>
+          <Info>С электрическим, пневматическим, механическим пуском или их комбинацией.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>С электрическим, пневматическим и механическим пуском.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>С электрическим и механическим пуском.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 9.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>28</CountNumber>
+    </Question>
+    <Question>
+      <Info>Модульные установки газового пожаротушения кроме расчетного количества ГОТВ должны иметь</Info>
+      <Answers>
+        <Answer>
+          <Info>100%-й резерв.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100%-й запас.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100%-й резерв и 100%-й запас100%-й запас</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>П. 9.6.3 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>29</CountNumber>
+    </Question>
+    <Question>
+      <Info>Минимальное наполнение ГОТВ в модулях должно составлять</Info>
+      <Answers>
+        <Answer>
+          <Info>не более 25 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не более 50 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не более 75 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Системы противопожарной защиты. Установки пожаротушения автоматические раздел 9 п.9.6.5: 9.6.5. Наполнение ГОТВ в модулях должно составлять не менее 44% от максимального наполнения, указанного в ТД на модули.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>30</CountNumber>
+    </Question>
+    <Question>
+      <Info>Минимальное наполнение ГОТВ в модулях должно составлять</Info>
+      <Answers>
+        <Answer>
+          <Info>не более 25 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не более 50 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не более 75 % от максимального наполнения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Системы противопожарной защиты. Установки пожаротушения автоматические раздел 9 п.9.6.5: 9.6.5. Наполнение ГОТВ в модулях должно составлять не менее 44% от максимального наполнения, указанного в ТД на модули.</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>30</CountNumber>
+    </Question>
+    <Question>
+      <Info>Установка газового пожаротушения должна обеспечивать инерционность (время срабатывания без учета времени задержки выпуска ГОТВ) не более</Info>
+      <Answers>
+        <Answer>
+          <Info>15 с</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.7.3. сп 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>31</CountNumber>
+    </Question>
+    <Question>
+      <Info>Метод контроля сохранности ГОТВ должен обеспечивать контроль протечки ГОТВ, не превышающей</Info>
+      <Answers>
+        <Answer>
+          <Info>3 %.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 %.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 %.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.8.9. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>32</CountNumber>
+    </Question>
+    <Question>
+      <Info>Должны ли трубопроводы установок газового пожаротушения быть заземлены (занулены)</Info>
+      <Answers>
+        <Answer>
+          <Info>Нет</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Да</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.9.7. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>33</CountNumber>
+    </Question>
+    <Question>
+      <Info>Внутренний объем трубопроводов установок газового пожаротушения не должен превышать 80 % объема жидкой фазы расчетного количества ГОТВ при температуре</Info>
+      <Answers>
+        <Answer>
+          <Info>25 С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 С.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50 С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.9.10 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>34</CountNumber>
+    </Question>
+    <Question>
+      <Info>Побудительные трубопроводы установок газового пожаротушения следует выполнять</Info>
+      <Answers>
+        <Answer>
+          <Info>Из стальных труб, а также труб из латуни или нержавеющей стали</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Из стальных труб или труб из нержавеющей стали.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Только из стальных труб.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.9.1 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>35</CountNumber>
+    </Question>
+    <Question>
+      <Info>Выбор типа насадков для установок газового пожаротушения определяется</Info>
+      <Answers>
+        <Answer>
+          <Info>Их техническими характеристиками.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Диаметром магистрального трубопровода.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Их техническими характеристиками для конкретного ГОТВ.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.11.1 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>36</CountNumber>
+    </Question>
+    <Question>
+      <Info>Прочность насадков для установок газового пожаротушения должна обеспечиваться</Info>
+      <Answers>
+        <Answer>
+          <Info>При давлении 1,5Рраб .</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>При давлении 1,25Рраб .</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>При давлении 1,75Рраб .</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.11.7 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>37</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях применяются установки локального пожаротушения по объему.</Info>
+      <Answers>
+        <Answer>
+          <Info>Для тушения пожара отдельных агрегатов или оборудования, когда применение установок объемного пожаротушения технически невозможно</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для тушения пожара отдельных агрегатов или оборудования, когда применение установок объемного пожаротушения технически невозможно или экономически нецелесообразно</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для тушения пожара отдельных агрегатов или оборудования, когда применение установок объемного пожаротушения экономически нецелесообразно</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>7.1.2 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>38</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое ГОТВ следует использовать при локальном пожаротушении по объему</Info>
+      <Answers>
+        <Answer>
+          <Info>Двуокись углерода.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Азот.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Аргон.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Инерген.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>7.1.2 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>39</CountNumber>
+    </Question>
+    <Question>
+      <Info>Автоматические установки порошкового пожаротушения применяются для ликвидации пожаров классов</Info>
+      <Answers>
+        <Answer>
+          <Info>А и В</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info> А, В, С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>А, В, Е.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>10.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>40</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких автостоянках допускается применение установок порошкового пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Подземных боксового типа.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Боксового типа.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Надземных боксового типа.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>СП 485.1311500.2020 Системы противопожарной защиты. Установки пожаротушения автоматические раздел 10 п.10.1.3: 10.1.3 Запрещается применение установок: а) в помещениях, которые не могут быть покинуты людьми до начала подачи огнетушащих порошков; б) в помещениях с пребыванием более 50 человек. </Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>41</CountNumber>
+    </Question>
+    <Question>
+      <Info>Допускается ли для соединения модуля порошкового пожаротушения с трубопроводом применение гибких соединителей</Info>
+      <Answers>
+        <Answer>
+          <Info>Да</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Нет</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>10.2.2. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>42</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое из следующих требований является верным для установок порошкового пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Устройства ручного и местного пуска установок должны быть опломбированы, за исключением устройств ручного пуска, установленных в помещениях пожарных постов.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Устройства ручного, дистанционного и местного пуска установок должны быть опломбированы, за исключением устройств ручного пуска, установленных в помещениях пожарных постов.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Устройства ручного и дистанционного должны быть опломбированы, за исключением устройств ручного пуска, установленных в помещениях пожарных постов.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>10.4.2. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>43</CountNumber>
+    </Question>
+    <Question>
+      <Info>Не менее, какого времени с момента включения в помещении устройств оповещения об эвакуации установка порошкового пожаротушения должна обеспечивать задержку выпуска порошка</Info>
+      <Answers>
+        <Answer>
+          <Info>30 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 с.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>10.4.2. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>44</CountNumber>
+    </Question>
+    <Question>
+      <Info>Для тушения каких классов пожаров не допускается применять установки аэрозольного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>А</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>В</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>А и В</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>С</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>45</CountNumber>
+    </Question>
+    <Question>
+      <Info>Помещения какой высоты допускается защищать установками аэрозольного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Не более 15 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 20 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 10 м.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 30 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 50 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>46</CountNumber>
+    </Question>
+    <Question>
+      <Info>Помещения какой высоты допускается защищать установками аэрозольного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Не более 15 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 20 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 10 м.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 30 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 50 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>46</CountNumber>
+    </Question>
+    <Question>
+      <Info>Помещения какого объема допускается защищать установками аэрозольного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>До 20 000 м3.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>До 10 000 м3.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>До 50 000 м3.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>До 100 000 м3.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>До 30 000 м3.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.1.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>47</CountNumber>
+    </Question>
+    <Question>
+      <Info>При размещении генераторов огнетушащего аэрозоля возможность, каких высокотемпературных зон на персонал находящийся в помещении должна быть исключена</Info>
+      <Answers>
+        <Answer>
+          <Info>Зоны с температурой более 75°С.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Зоны с температурой более 50°С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Зоны с температурой более 100°С.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.2.6. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>48</CountNumber>
+    </Question>
+    <Question>
+      <Info>Должны ли трубопроводы генераторов дистанционной подачи огнетушащего аэрозоля быть заземлены (занулены).</Info>
+      <Answers>
+        <Answer>
+          <Info>Нет</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Да</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>11.2.12. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>49</CountNumber>
+    </Question>
+    <Question>
+      <Info>По способу хранения вытесняющего газа в модуле (емкости) установки порошкового пожаротушения подразделяются</Info>
+      <Answers>
+        <Answer>
+          <Info>На закачные и с баллоном сжатого или сжиженного газа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>На закачные и с газогенерирующим элементом.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>На закачные, с газогенерирующим элементом, с баллоном сжатого или сжиженного газа.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>10.2.3. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>50</CountNumber>
+    </Question>
+    <Question>
+      <Info>Время подачи расчетного количества ГОТВ при локальном тушении не должно превышать</Info>
+      <Answers>
+        <Answer>
+          <Info>15 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 с. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 с.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.15.5. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>51</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое из ГОТВ не относится к сжатым газам</Info>
+      <Answers>
+        <Answer>
+          <Info>Аргон.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Двуокись углерода.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Инерген.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Азот.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.1. СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>52</CountNumber>
+    </Question>
+    <Question>
+      <Info>Установка газового пожаротушения должна обеспечивать инерционность (время срабатывания без учета времени задержки выпуска ГОТВ).</Info>
+      <Answers>
+        <Answer>
+          <Info>Не более 20 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 60 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 10 с.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не более 15 с.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.7.3 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>53</CountNumber>
+    </Question>
+    <Question>
+      <Info>Установка газового пожаротушения должна обеспечивать подачу не менее 95 % массы ГОТВ, требуемой для создания нормативной огнетушащей концентрации в защищаемом помещении, за временной интервал, не превышающий 60 с</Info>
+      <Answers>
+        <Answer>
+          <Info>Для модульных установок, в которых в качестве ГОТВ применяются сжиженные газы (кроме двуокиси углерода).</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для модульных и централизованных установок, в которых в качестве ГОТВ применяются двуокись углерода или сжатые газы.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для централизованных установок, в которых в качестве ГОТВ применяются сжиженные газы (кроме двуокиси углерода).</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.7.4 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>54</CountNumber>
+    </Question>
+    <Question>
+      <Info>Модули в составе установки газового пожаротушения должны размещаться в условиях, при которых максимальный интервал температуры составляет</Info>
+      <Answers>
+        <Answer>
+          <Info> От 40 ºС до минус 20 ºС.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>От 50 ºС до минус 20 ºС.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>От 50 ºС до минус 30 ºС.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments>9.7.4 СП 485</Comments>
+      <Chapter>1</Chapter>
+      <CountNumber>55</CountNumber>
     </Question>
   </Questions>
 </Data>

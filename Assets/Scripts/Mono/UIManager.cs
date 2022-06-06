@@ -179,15 +179,15 @@ public class UIManager : MonoBehaviour {
                 }
                 else
                 {
-                    uIElements.ResolutionBG.color = parameters.FinalBGColor;
+                    uIElements.ResolutionBG.color = parameters.IncorrectBGColor;
                     uIElements.ResolutionStateInfoText.text = "Тестирование не пройдено";
                 }
 
                 StartCoroutine(CalculateScore());
                 uIElements.FinishUIElements.gameObject.SetActive(true);
                 uIElements.HighScoreText.gameObject.SetActive(true);
-                uIElements.HighScoreText.text = ((highscore > events.StartupHighscore) ? "<color=yellow>new </color>" : string.Empty) + "Highscore: " + highscore;
-                break;
+              //  uIElements.HighScoreText.text = ((highscore > events.StartupHighscore) ? "<color=yellow>new </color>" : string.Empty) + "Лучший результат " + highscore + " верных ответов";
+              break;
         }
     }
 
@@ -196,14 +196,14 @@ public class UIManager : MonoBehaviour {
     /// </summary>
     IEnumerator CalculateScore()
     {
-        if (events.CurrentFinalScore == 0) { uIElements.ResolutionScoreText.text = 0.ToString(); yield break; }
+        if (events.CurrentFinalScore == 0) { uIElements.ResolutionScoreText.text = ("Верных ответов - " + 0.ToString() + " из 40"); yield break; }
 
         var scoreValue = 0;
         var scoreMoreThanZero = events.CurrentFinalScore > 0; 
         while (scoreMoreThanZero ? scoreValue < events.CurrentFinalScore : scoreValue > events.CurrentFinalScore)
         {
             scoreValue += scoreMoreThanZero ? 1 : -1;
-            uIElements.ResolutionScoreText.text = scoreValue.ToString();
+            uIElements.ResolutionScoreText.text = ("Верных ответов - " + scoreValue.ToString() + " из 40");
 
             yield return null;
         }
@@ -247,6 +247,6 @@ public class UIManager : MonoBehaviour {
     /// </summary>
     void UpdateScoreUI()
     {
-        uIElements.ScoreText.text = "Score: " + events.CurrentFinalScore;
+        uIElements.ScoreText.text = "Верных ответов: " + events.CurrentFinalScore ;
     }
 }
