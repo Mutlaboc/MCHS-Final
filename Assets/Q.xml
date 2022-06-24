@@ -1601,5 +1601,2789 @@
       <Chapter>1</Chapter>
       <CountNumber>55</CountNumber>
     </Question>
+    <Question>
+      <Info>Какой из следующих хладонов отсутствует в перечне допустимых к применению в установках газового пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>218</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>318Ц</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>114В2</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>56</CountNumber>
+    </Question>
+    <Question>
+      <Info>Для тушения какого вещества не должны применяться установки газового пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Травяная мука.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Гептан.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Керосин.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Полиуретан.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>57</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какие установки не применяются для объемного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>Водяного пожаротушения.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Газового пожаротушения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Порошкового пожаротушения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>58</CountNumber>
+    </Question>
+    <Question>
+      <Info>Согласно какому нормативному документу проводятся испытания средств огнезащиты для стальных конструкций</Info>
+      <Answers>
+        <Answer>
+          <Info>ГОСТ Р 53295-2009</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ 30247.1-94</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ 30403-2012</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ 30247.0-94</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ Р 53292-2009</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>59</CountNumber>
+    </Question>
+    <Question>
+      <Info>Достижение какой температуры является предельным состоянием при проведении испытаний средств огнезащиты для стальных конструкций   </Info>
+      <Answers>
+        <Answer>
+          <Info>450 С</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>550 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>525 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>500 С</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>600 С</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>60</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях  могут применяться вспучивающиеся огнезащитные покрытия для несущих элементов зданий I и II степеней огнестойкости, обеспечивающих общую прочность  и пространственную устойчивость здания  </Info>
+      <Answers>
+        <Answer>
+          <Info>Ограничений нет</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не могут применяться</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для элементов с приведенной толщиной не менее 5,8 мм </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для элементов с приведенной толщиной менее 5,8 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Для элементов перекрытий и покрытий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>61</CountNumber>
+    </Question>
+    <Question>
+      <Info>Сколько групп огнезащитной эффективности установлено для средств огнезащиты стальных конструкций?</Info>
+      <Answers>
+        <Answer>
+          <Info>5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>7</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>62</CountNumber>
+    </Question>
+    <Question>
+      <Info>По какому температурному режиму проходят испытания средства огнезащиты для стальных конструкций на огнезащитную эффективность </Info>
+      <Answers>
+        <Answer>
+          <Info>Режим тлеющего пожара</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Углеводородный температурный режим</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Наружный температурный режим</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Стандартный температурный режим</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Тоннельный температурный режим</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>63</CountNumber>
+    </Question>
+    <Question>
+      <Info>Имеется 4-х этажное (без подвала) здание предприятия торговли с площадью типового этажа 1000 м2, разделенное на два пожарных отсека перекрытием между 3-м и 4-м этажами. Какие этажи здания подлежат защите АУП?</Info>
+      <Answers>
+        <Answer>
+          <Info>Только с 1-го по 3-й</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Все этажи</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Только 4-й этаж</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Никакие</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>64</CountNumber>
+    </Question>
+    <Question>
+      <Info>В офисном помещении площадью 150 м2 здания класса Ф4.3 в пространстве между двойными полами проложены одиночные кабели сети освещения и трубопроводы системы холодоснабжения в изоляции группы горючести Г2. Подлежит ли указанное пространство защите АУП?</Info>
+      <Answers>
+        <Answer>
+          <Info>Подлежит</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не подлежит</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Подлежит, если здание в целом подлежит защите АУП</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>65</CountNumber>
+    </Question>
+    <Question>
+      <Info>Имеется здание коровника общей площадью 3500м2, в состав которого входят два помещения для содержания коров площадью 900м2 и 2500м2 категории ВЗ по пожарной опасности, и вспомогательные помещения. Следует ли в указанном здании предусматривать АУП?</Info>
+      <Answers>
+        <Answer>
+          <Info>Следует во всем здании</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Следует только в помещении площадью 2500 м2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не следует</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>66</CountNumber>
+    </Question>
+    <Question>
+      <Info>В административном здании высотой менее 30 м имеется помещение серверной площадью 40 м2 и категории В4 по пожарной опасности. Подлежит ли указанное помещение защите АУП?</Info>
+      <Answers>
+        <Answer>
+          <Info>Подлежит</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не подлежит</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>67</CountNumber>
+    </Question>
+    <Question>
+      <Info>В подвальном этаже административного здания высотой менее 30 м расположен ресторан. Все входящие в состав ресторана помещения, включая залы для посетителей, выгорожены противопожарными перегородками 1-го типа, при этом любое помещение имеет площадь менее 200 м2 . Подлежат ли помещения указанного ресторана защите АУП?</Info>
+      <Answers>
+        <Answer>
+          <Info>Не подлежат</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Подлежат, кроме помещений, перечисленных в п. 4.4 СП 486.1311500.2020 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Подлежат только залы для посетителей</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>68</CountNumber>
+    </Question>
+    <Question>
+      <Info>Что такое огнезащитный состав для древесины и материалов на ее основе?</Info>
+      <Answers>
+        <Answer>
+          <Info>Состав, обладающий требуемой огнезащитной способностью для снижения горючести древесины и материалов на ее основе</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Состав, обладающий требуемой огнезащитной эффективностью и предназначенный для огнезащитной обработки различных объектов из древесины и материалов на ее основе.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Состав, который может быть использован для огнезащиты древесины и материалов на ее основе</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>69</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какова периодичность проверок состояния огнезащитной обработки при отсутствии ее указания в инструкции изготовителя средства огнезащиты?</Info>
+      <Answers>
+        <Answer>
+          <Info>Не реже 1 раза в год</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Не реже 2 раз в  год</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>. Не реже 1 раза в год за исключением обработанных конструкций и материалов, эксплуатируемых на открытом воздухе, для которых проверки должны проводится не реже 2 раз в год</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>70</CountNumber>
+    </Question>
+    <Question>
+      <Info>Подтверждение соответствия средств огнезащиты древесины требованиям пожарной безопасности осуществляется в форме:</Info>
+      <Answers>
+        <Answer>
+          <Info>Только декларации о соответствии</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Только сертификации</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Декларации о соответствии и сертификации</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>71</CountNumber>
+    </Question>
+    <Question>
+      <Info>Каким стандартом и каким методом регламентируется экспериментальная идентификация огнезащитных составов (средств огнезащиты)?</Info>
+      <Answers>
+        <Answer>
+          <Info>ГОСТ Р 53292</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ Р 51293</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Ответ ГОСТ Р 53295</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>72</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какие методы термического анализа рекомендует ГОСТ Р 53293-09 для проведения экспериментальной идентификации?</Info>
+      <Answers>
+        <Answer>
+          <Info>Стандарт рекомендует использовать следующие методы термического анализа: - термогравиметрический анализ (ТГ), где в режиме сканирования по температуре с линейной скоростью ведется запись потери массы образца материала (средства огнезащиты); - термогравиметрический анализ по производной от времени (ДТГ), для наглядности сигнал изменения массы образца дифференцируется по времени; ТГ – ДТГ методы являются основными. Дополнительные методы - дифференциально-термический анализ (ДТА) или дифференциально-сканирующая калориметрия (ДСК); Сигнал ДТА в относительных единицах(0С/мг) – сигнал разности температур между образцом материала и «образцом сравнения» (как правило это окись алюминия – Al2O3); Сигнал ДСК – относительный сигнал в единицах тепла Дж/г (МДж/кг), показывает характер тепловых процессов (поглощения или выделения тепла), происходящих при нагревании в материале (стеклование, плавление, дегидратация, пиролиз или окисление, кристаллизация). </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Стандарт рекомендует Метод ТМА. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Стандарт рекомендует метод Кислородного индекса (КИ) и метод Кислородной бомбы.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>1</Chapter>
+      <CountNumber>73</CountNumber>
+    </Question>
+    <Question>
+      <Info>Каким нормативным новым документом регламентирована деятельность «системам противопожарной защиты, система пожарной сигнализации и автоматизации систем противопожарной защиты. Нормы и правила проектирования».</Info>
+      <Answers>
+        <Answer>
+          <Info>СП 484.1311500.2020</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 5.13130.2009</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 69</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 123</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 484</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>1</CountNumber>
+    </Question>
+    <Question>
+      <Info>СП 484.1311.2020 введен взамен</Info>
+      <Answers>
+        <Answer>
+          <Info>СП 5.13130.2009</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 69</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 123</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ 89.47-66</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>НПБ 110-03</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>2</CountNumber>
+    </Question>
+    <Question>
+      <Info>В какой статье ФЗ № 123 ТР о требованиях ПБ перечислены способы защиты людей и имущества от воздействия опасных факторов пожара, устройство систем обнаружения пожара (установок и систем пожарной сигнализации), оповещения и управления эвакуацией людей при пожаре.</Info>
+      <Answers>
+        <Answer>
+          <Info>58</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>38</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>52*</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>77</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>101</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>3</CountNumber>
+    </Question>
+    <Question>
+      <Info>Система оповещения и управления эвакуацией людей при пожаре предназначена для: </Info>
+      <Answers>
+        <Answer>
+          <Info>информирования людей о возникновении пожара, необходимости эвакуироваться, путях и очередности эвакуации.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>обеспечения пожарной безопасности.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Информирования о пожаре.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Передачи сигнала в ЦУКС</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Передачи сигнала в ПСЧ.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>4</CountNumber>
+    </Question>
+    <Question>
+      <Info>Линии связи должны быть промаркированы в соответствии с: </Info>
+      <Answers>
+        <Answer>
+          <Info>СП 5.13130.2009;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 76.13330.2016</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 123</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ГОСТ 89.47-66</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ФЗ № 68</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>5</CountNumber>
+    </Question>
+    <Question>
+      <Info>Задание на проектирование это -  </Info>
+      <Answers>
+        <Answer>
+          <Info>Документ, который разрешает проектирование АПС и СОУЭ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Разрешение на введение в эксплуатацию АПС и СОУЭ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Документ, на основе которого будет решаться весь комплекс вопросов, входящих в состав проекта, утвержденного заказчиком</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Нормативная база в области ПБ</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Подписанный акт пусконаладочных работ.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>6</CountNumber>
+    </Question>
+    <Question>
+      <Info>Знак безопасности, предназначенный для регулирования поведения человека в целях предотвращения возникновения пожара, а также для обозначения мест нахождения средств противопожарной защиты, средств оповещения, предписания, разрешения или запрещения определенных действий при возникновении горения (пожара) - это </Info>
+      <Answers>
+        <Answer>
+          <Info>Знак пожарной безопасности</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Знак тревоги. зона пожарного оповещения  </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Зона пожарного оповещения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>План эвакуации</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Телефон вызова экстренных служб</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>7</CountNumber>
+    </Question>
+    <Question>
+      <Info>Техническое средство, предназначенное для оповещения людей о пожаре посредством подачи светового, звукового, речевого сигнала (их комбинации) или иного воздействия на органы чувств человека – это </Info>
+      <Answers>
+        <Answer>
+          <Info>Оповещатель пожарный</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Извещатель пожарный.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Система АПС.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Система АПС и СОУЭ.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Модуль охранной сигнализации.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>8</CountNumber>
+    </Question>
+    <Question>
+      <Info>Конструктивный элемент, изделие или сборная конструкция, предназначенная для заделки мест прохода кабелей через ограждающие конструкции с нормируемыми пределами огнестойкости или противопожарные преграды и препятствующая распространению горения в примыкающие помещения в течение нормированного времени - это </Info>
+      <Answers>
+        <Answer>
+          <Info>Проходной канал.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Кабельная проходка.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Закладная конструкция для проходки.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Закладной элемент из арматуры.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Закладной проходящий элемент из металлической трубы.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>9</CountNumber>
+    </Question>
+    <Question>
+      <Info>Прибор, предназначенный для работы в качестве автономной системы оповещения или в составе автоматической пожарной сигнализации  - это</Info>
+      <Answers>
+        <Answer>
+          <Info>Прибор охранной сигнализации</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>прибор контроля пожарной опасности.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>приемно-контрольный пожарный прибор;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>прибор пожарной сигнализации</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>прибор АПС и СОУЭ.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>10</CountNumber>
+    </Question>
+    <Question>
+      <Info>Выход, ведущий на путь эвакуации, непосредственно наружу или в безопасную зону - это</Info>
+      <Answers>
+        <Answer>
+          <Info>выход на улицу;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>эвакуационный выход;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>запасной выход;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>выход на незадымляемую лестничную клетку;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>выход в незадымляемое помещение.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>11</CountNumber>
+    </Question>
+    <Question>
+      <Info>Процесс организованного самостоятельного движения людей непосредственно наружу или в безопасную зону называется</Info>
+      <Answers>
+        <Answer>
+          <Info>путь движения;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>маршрут движения;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>эвакуация;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>запасной маршрут;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>запасной путь.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>12</CountNumber>
+    </Question>
+    <Question>
+      <Info>Совокупность всех фаз использования технических средств СОУЭ по назначению называется</Info>
+      <Answers>
+        <Answer>
+          <Info>эксплуатация;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>нормальный режим работы;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>дежурный режим работы;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>постоянный режим работы;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>режим работы в постановке на охрану.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>13</CountNumber>
+    </Question>
+    <Question>
+      <Info>При проектировании СОУЭ следует учитывать внутренние санитарно-технических системы объекта защиты по СП</Info>
+      <Answers>
+        <Answer>
+          <Info>СП 73.13330.2016.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 5.13130.2009.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 8.13130.2009.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 10.13130.2020.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 7.13130.2013.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>14</CountNumber>
+    </Question>
+    <Question>
+      <Info>В процессе монтажа, технические средства СОУЭ должны быть защищены: </Info>
+      <Answers>
+        <Answer>
+          <Info>Не подлежат защите;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>установлены в герметичной упаковке;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>установлены в защищённых ящиках;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>защитными крышками (колпачками), иными способами и средствами защиты от попадания пыли, влаги;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Упаковочным целлофаном.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>15</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Зона оповещения о пожаре» — это?</Info>
+      <Answers>
+        <Answer>
+          <Info>Часть или части здания, или объекта, в которой осуществляется одновременное оповещение людей о пожаре.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория, часть здания, или объекта, в которой осуществляется одновременное оповещение людей о пожаре</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория, часть или части здания, или объекта, в которой осуществляется одновременное оповещение людей о пожаре. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория, часть или части здания, в которой осуществляется одновременное оповещение людей о пожаре</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Части здания, или объекта, в которой осуществляется одновременное оповещение людей о пожаре</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>16</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Алгоритм» — это? </Info>
+      <Answers>
+        <Answer>
+          <Info>Порядок приема, регистрации, логика формирования, отображения и выдачи сигналов, определяемые событиями (комбинацией и/или последовательностью) по контролируемым входным и выходным сигналам.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Порядок приема, обработки, регистрации, логика формирования, отображения и выдачи сигналов, определяемые событиями (комбинацией и/или последовательностью) по контролируемым входным и выходным сигналам. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Порядок приема, обработки, регистрации, логика формирования, отображения и выдачи сигналов, определяемые событиями (комбинацией и/или последовательностью) по контролируемым входным сигналам.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Порядок приема, обработки, регистрации, логика формирования, отображения и приема сигналов, определяемые событиями (комбинацией и/или последовательностью) по контролируемым входным и выходным сигналам.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Порядок приема, обработки, регистрации, логика формирования, отображения и выдачи сигналов, определяемые событиями по контролируемым входным и выходным сигналам.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>17</CountNumber>
+    </Question>
+    <Question>
+      <Info>ППКП и ППУ, функциональные модули индикации и управления, ИБЭ следует устанавливать в помещении пожарного поста. При каких условиях допускается установка указанных устройств в других помещениях?</Info>
+      <Answers>
+        <Answer>
+          <Info>Порядок приема, регистрации, логика формирования, отображения и выдачи сигналов, определяемые событиями (комбинацией и/или последовательностью) по контролируемым входным и выходным сигналам.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>обеспечение передачи всех извещений, предусмотренных указанными устройствами, на пожарный пост с целью отображения световой индикации и звуковой сигнализации, а также обеспечения функций ручного управления, регламентируемых национальными и межгосударственными стандартами.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>обеспечение передачи локальных извещений, предусмотренных указанными устройствами, на пожарный пост с целью отображения световой индикации и звуковой сигнализации, а также обеспечения функций ручного управления, регламентируемых национальными и межгосударственными стандартами.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 1 и 3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 1 и 2 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>18</CountNumber>
+    </Question>
+    <Question>
+      <Info>Размещение приборов, функциональных модулей и ИБЭ в помещении пожарного поста следует предусматривать в местах, позволяющих осуществлять наблюдение и управление ими, а также техническое обслуживание.  Данные технические средства следует размещать таким образом, чтобы высота от уровня пола до органов управления и индикации была от м. до м.?</Info>
+      <Answers>
+        <Answer>
+          <Info>от 0,76 м до 1,8 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>от 0,70 м до 1,8 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>от 0,75 м до 1,8 м </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>от 0,75 м до 2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>от 0,75 м до 1,9 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>19</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком этаже здания должен располагаться пожарный пост (при его наличии)? </Info>
+      <Answers>
+        <Answer>
+          <Info>На цокольном </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>На первом </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>На втором </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 1 и 2 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 2 и 3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>20</CountNumber>
+    </Question>
+    <Question>
+      <Info>Расстояние от двери помещения пожарного поста до выхода из здания должно быть не более?</Info>
+      <Answers>
+        <Answer>
+          <Info>5 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25 м.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>21</CountNumber>
+    </Question>
+    <Question>
+      <Info>Рекомендуется предусматривать запас по емкости ППКП и ППУ для подключения дополнительных устройств, который может быть задействован при производстве перепланировок или реконструкции. Если иное не определено заданием на проектирование, то запас должен составлять:</Info>
+      <Answers>
+        <Answer>
+          <Info>не менее 20%, если планировка и вид отделки определен</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 100%, если не определена окончательная планировка помещений и возможно дополнительное оборудование помещений фальшполами и подвесными потолками</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 30%, если планировка и вид отделки определен</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 1 и 2 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Верно 2 и 3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>23</CountNumber>
+    </Question>
+    <Question>
+      <Info>Общее количество ИП, подключаемых к одному ППКП, не должно превышать 512. При этом суммарная контролируемая ими площадь не должна превышать?</Info>
+      <Answers>
+        <Answer>
+          <Info>6 000 м2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 000 м2 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>24 000 м2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>26 000 м2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>48 000 м2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>24</CountNumber>
+    </Question>
+    <Question>
+      <Info>В СП 484.1311500.2020 сказано, что численные значения, регламентируемые в настоящем своде правил, могут быть увеличены, но не более чем на… На какой процент численные значения могут быть увеличены?</Info>
+      <Answers>
+        <Answer>
+          <Info>5</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>22</CountNumber>
+    </Question>
+    <Question>
+      <Info>В СП 484.1311500.2020 сказано, что численные значения, регламентируемые в настоящем своде правил, могут быть увеличены, но не более чем на… На какой процент численные значения могут быть увеличены?</Info>
+      <Answers>
+        <Answer>
+          <Info>316 ИП</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>412 ИП</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>484 ИП</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>512 ИП </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>600 ИП</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>25</CountNumber>
+    </Question>
+    <Question>
+      <Info>Тепловые пожарные извещатели следует применять, если в ЗКПС или ее части в случае возникновения пожара на его начальной стадии превалирующим фактором является выделение тепла. В данном случае для контроля помещений могут применяться ИП типа?</Info>
+      <Answers>
+        <Answer>
+          <Info>точечные тепловые</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>линейные тепловые</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>комбинация точечных и линейных тепловых</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>верно 1, 2 и 3 </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>верно 1 и 3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>26</CountNumber>
+    </Question>
+    <Question>
+      <Info>Для реализации алгоритма C защищаемое помещение должно контролироваться не менее чем ___ автоматическими ИП при условии, что каждая точка помещения (площадь) контролируется двумя ИП. Дополните предложение.</Info>
+      <Answers>
+        <Answer>
+          <Info>двумя </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>тремя</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пятью</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>семью</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>восемью</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>27</CountNumber>
+    </Question>
+    <Question>
+      <Info>Максимальное расстояние от уровня перекрытия (уровня подвесного или натяжного потолка) до воздухозаборного отверстия аспирационного ИП должно быть не более</Info>
+      <Answers>
+        <Answer>
+          <Info>700 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>800 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>900 мм. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1000 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1500 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>28</CountNumber>
+    </Question>
+    <Question>
+      <Info>При размещении ИП на высоте более ___ м, а также под фальшполами и над подвесными (подшивными, натяжными) потолками должен быть определен вариант(ы) доступа к ИП для обслуживания и ремонта.  Дополните предложение. </Info>
+      <Answers>
+        <Answer>
+          <Info>3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>4</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>7</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>29</CountNumber>
+    </Question>
+    <Question>
+      <Info>Выберете правильный вариант ответа: </Info>
+      <Answers>
+        <Answer>
+          <Info>Расстояние от перекрытия до оптической оси ИП должно быть от 15 до 500 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Расстояние от перекрытия до оптической оси ИП должно быть от 20 до 550 мм</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Расстояние от перекрытия до оптической оси ИП должно быть от 25 до 600 мм </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Расстояние от перекрытия до оптической оси ИП должно быть от 25 до 650 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Расстояние от перекрытия до оптической оси ИП должно быть от 30 до 600 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>30</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какой высоте допускается применение аспирационных дымовых ИП для контроля высокостеллажных складов в помещениях?</Info>
+      <Answers>
+        <Answer>
+          <Info>20 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>35 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info> 40 м. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>31</CountNumber>
+    </Question>
+    <Question>
+      <Info>При проектировании СПС окончательная планировка помещений не установлена, то максимальное расстояние по прямой линии между любой точкой здания и ближайшим ИПР не должно превышать?</Info>
+      <Answers>
+        <Answer>
+          <Info>10 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 м.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>35 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>32</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком расстоянии корпус ИПР при углубленном монтаже должен выступать от поверхности монтажа? </Info>
+      <Answers>
+        <Answer>
+          <Info>не менее 10 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 15 мм. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 20 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 25 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 30 мм.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>33</CountNumber>
+    </Question>
+    <Question>
+      <Info>Расстояние от ИП до стен (перегородок), а также других строительных конструкций и до инженерного оборудования, выступающего от перекрытия на расстояние более 0,25 м, должно быть не менее?</Info>
+      <Answers>
+        <Answer>
+          <Info>0,50 м. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,60 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,65 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0, 70 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0, 80 м.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>34</CountNumber>
+    </Question>
+    <Question>
+      <Info>При установке точечных дымовых или газовых ИП под фальшполом, над фальшпотолком и в других пространствах высотой менее 1,7 м радиус зоны контроля ИП допускается увеличивать?</Info>
+      <Answers>
+        <Answer>
+          <Info>в 1,5 раза </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в 1,6 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в 1.7 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в 1.8 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в 1.9 раза</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>35</CountNumber>
+    </Question>
+    <Question>
+      <Info>При установке точечных ИП в самом высоком месте наклонного потолка радиусы зоны контроля, приведенные в таблицах 1 и 2, допускается увеличивать из расчета 1% на каждый 1° наклона, но не более?</Info>
+      <Answers>
+        <Answer>
+          <Info>10%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>25% </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>36</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Зона контроля пожарной сигнализации» — это?</Info>
+      <Answers>
+        <Answer>
+          <Info>Часть объекта, контролируемая пожарными извещателями, выделенная с целью определения места возникновения пожара, дальнейшего выполнения заданного алгоритма функционирования систем противопожарной защиты.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория или часть объекта, контролируемая пожарными извещателями, выделенная с целью определения места возникновения пожара, дальнейшего выполнения заданного алгоритма функционирования систем противопожарной защиты. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория, контролируемая пожарными извещателями, выделенная с целью определения места возникновения пожара, дальнейшего выполнения заданного алгоритма функционирования систем противопожарной защиты.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория или часть объекта, контролируемая пожарными датчиками, выделенная с целью определения места возникновения пожара, дальнейшего выполнения заданного алгоритма функционирования систем противопожарной защиты.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Территория или часть объекта, контролируемая пожарными извещателями, выделенная с целью определения места возникновения пожара.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>37</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Извещатель пожарный» — это?</Info>
+      <Answers>
+        <Answer>
+          <Info>Средство, предназначенное для обнаружения пожара посредством контроля изменений физических параметров окружающей среды, вызванных пожаром, и (или) формирования сигнала о пожаре. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Прибор, предназначенный для обнаружения пожара посредством контроля изменений физических параметров окружающей среды, вызванных пожаром, и (или) формирования сигнала о пожаре. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Техническое средство, предназначенное для обнаружения пожара посредством контроля изменений физических параметров окружающей среды, вызванных пожаром. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Техническое средство, предназначенное для обнаружения пожара посредством контроля изменений физических параметров окружающей среды, вызванных пожаром, и (или) формирования сигнала о пожаре. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Средство, предназначенное для обнаружения пожара посредством контроля изменений физико-химических параметров окружающей среды, вызванных пожаром, и (или) формирования сигнала о пожаре. </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>38</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Извещатель пожарный с видеоканалом обнаружения» — это?</Info>
+      <Answers>
+        <Answer>
+          <Info>Атоматизированный пожарный извещатель, выполняющий функцию обнаружения возгорания посредством анализа видеоизображения в контролируемом поле зрения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Автоматический пожарный извещатель, выполняющий функцию обнаружения возгорания посредством мониторинга видеоизображения в контролируемом поле зрения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Автоматизированный пожарный извещатель, выполняющий функцию обнаружения возгорания посредством анализа видеоизображения в контролируемом поле зрения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Автоматический пожарный извещатель, выполняющий функцию обнаружения возгорания посредством анализа видеоизображения на заданном участке.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Автоматический пожарный извещатель, выполняющий функцию обнаружения возгорания посредством анализа видеоизображения в контролируемом поле зрения. </Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>39</CountNumber>
+    </Question>
+    <Question>
+      <Info>В соответствии с СП 484.1311500.2020 выберете правильное определение «Система пожарной сигнализации» — это?</Info>
+      <Answers>
+        <Answer>
+          <Info>Набор взаимодействующих технических средств, предназначенных для формирования, сбора, обработки, регистрации и выдачи в заданном виде сигналов о пожаре, режимах работы системы, другой информации и выдачи (при необходимости) инициирующих сигналов на управление техническими средствами противопожарной защиты, технологическим, электротехническим и другим оборудованием.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Совокупность технических средств, предназначенных для обнаружения сбора, обработки, регистрации и выдачи в заданном виде сигналов о пожаре, режимах работы системы, другой информации и выдачи (при необходимости) инициирующих сигналов на управление техническими средствами противопожарной защиты, технологическим, электротехническим и другим оборудованием.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>.Набор взаимодействующих технических средств, предназначенных для обнаружения пожара, обработки, регистрации и выдачи в заданном виде сигналов о пожаре, режимах работы системы, другой информации и выдачи (при необходимости) инициирующих сигналов на управление техническими средствами противопожарной защиты, технологическим, электротехническим и другим оборудованием.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Совокупность взаимодействующих технических средств, предназначенных для обнаружения пожара, формирования, сбора, обработки и выдачи в заданном виде сигналов о пожаре, режимах работы системы, другой информации и выдачи (при необходимости) инициирующих сигналов на управление техническими средствами противопожарной защиты, технологическим, электротехническим и другим оборудованием.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Совокупность взаимодействующих технических средств, предназначенных для обнаружения пожара, формирования, сбора, обработки, регистрации и выдачи в заданном виде сигналов о пожаре, режимах работы системы, другой информации и выдачи (при необходимости) инициирующих сигналов на управление техническими средствами противопожарной защиты, технологическим, электротехническим и другим оборудованием.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>2</Chapter>
+      <CountNumber>40</CountNumber>
+    </Question>
+    <Question>
+      <Info>В качестве источников противопожарного водоснабжения согласно требованиям Технического регламента о требованиях пожарной безопасности могут использоваться:</Info>
+      <Answers>
+        <Answer>
+          <Info>естественные и искусственные водоемы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>внутренний и наружный водопроводы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>естественные и искусственные водоемы, а также внутренний водопровод </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>искусственные водоемы, внутренний и наружный водопроводы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>естественные и искусственные водоемы, а также внутренний и наружный водопроводы</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>1</CountNumber>
+    </Question>
+    <Question>
+      <Info>Необходимость устройства искусственных водоемов, использования естественных водоемов, а также их параметры определяются </Info>
+      <Answers>
+        <Answer>
+          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 8.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 10.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Все ответы верны</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>2</CountNumber>
+    </Question>
+    <Question>
+      <Info>Необходимость устройства противопожарного водопровода, а также их параметры определяются</Info>
+      <Answers>
+        <Answer>
+          <Info>Техническим регламентом о требованиях пожарной безопасности</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 8.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 10.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Техническим регламентом о безопасности зданий и сооружений </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Все ответы верны</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>3</CountNumber>
+    </Question>
+    <Question>
+      <Info>К источникам наружного противопожарного водоснабжения относятся:</Info>
+      <Answers>
+        <Answer>
+          <Info>наружные водопроводные сети с пожарными гидрантами; водные объекты, используемые для целей пожаротушения в соответствии с законодательством Российской Федерации; противопожарные резервуары</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наружные водопроводные сети с пожарными гидрантами; противопожарные резервуары</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наружные водопроводные сети с пожарными гидрантами; водные объекты, используемые для целей пожаротушения в соответствии с законодательством Российской Федерации; противопожарные резервуары; водяные скважины</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наружные водопроводные сети; водные объекты, используемые для целей пожаротушения в соответствии с законодательством Российской Федерации; противопожарные резервуары</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наружные водопроводные сети с пожарными гидрантами; водные объекты, используемые для целей пожаротушения в соответствии с законодательством Российской Федерации</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>4</CountNumber>
+    </Question>
+    <Question>
+      <Info>Противопожарный водопровод поселений и городских округов допускается объединять </Info>
+      <Answers>
+        <Answer>
+          <Info>с хозяйственно-питьевым или производственным водопроводом</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>только с хозяйственно-питьевым</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>только с производственным водопроводом</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не допускается</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>только с питьевым водопроводом</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>5</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения </Info>
+      <Answers>
+        <Answer>
+          <Info>В поселениях и городских округах с количеством жителей до 5000 человек;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>В поселениях и городских округах с количеством жителей до 3000 человек;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>В поселениях и городских округах с количеством жителей до 7000 человек</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>В поселениях и городских округах с количеством жителей до 10000 человек</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>В поселениях и городских округах с количеством жителей до 1000 человек</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>6</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения для</Info>
+      <Answers>
+        <Answer>
+          <Info>отдельно стоящих зданиях классов функциональной пожарной опасности Ф1.1, Ф1.2, Ф2, Ф3, Ф4 объемом до 1000 кубических метров, расположенных в поселениях и городских округах, не имеющих кольцевого противопожарного водопровода</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>отдельно стоящих зданиях классов функциональной пожарной опасности Ф1.1, Ф1.2, Ф2, Ф3, Ф4 объемом до 2000 кубических метров, расположенных в поселениях и городских округах, не имеющих кольцевого противопожарного водопровода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не допускается</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>отдельно стоящих зданиях классов функциональной пожарной опасности Ф4, Ф5 объемом до 1000 кубических метров, расположенных в поселениях и городских округах, не имеющих кольцевого противопожарного водопровода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>отдельно стоящих зданиях классов функциональной пожарной опасности Ф1.1, Ф1.2, Ф2, Ф3, Ф4, Ф5 объемом до 1500 кубических метров, расположенных в поселениях и городских округах, не имеющих кольцевого противопожарного водопровода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>7</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения для</Info>
+      <Answers>
+        <Answer>
+          <Info>зданий и сооружений класса функциональной пожарной опасности Ф5 с производствами категорий В, Г и Д по пожаровзрывоопасности и пожарной опасности при расходе воды на наружное пожаротушение 10 литров в секунду</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданий и сооружений класса функциональной пожарной опасности Ф5 с производствами категорий Г и Д по пожаровзрывоопасности и пожарной опасности при расходе воды на наружное пожаротушение 10 литров в секунду</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданий и сооружений класса функциональной пожарной опасности Ф5 с производствами категорий В, Г и Д по пожаровзрывоопасности и пожарной опасности при расходе воды на наружное пожаротушение 5 литров в секунду</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданий и сооружений класса функциональной пожарной опасности Ф5 при расходе воды на наружное пожаротушение 10 литров в секунду и объемом до 1000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданий и сооружений класса функциональной пожарной опасности Ф5 с производствами категорий В, Г и Д по пожаровзрывоопасности и пожарной опасности и объемом до 1000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>8</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения на складах грубых кормов</Info>
+      <Answers>
+        <Answer>
+          <Info>не допускается</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 4000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 2000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 1000 кубических метров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 3000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>9</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения на складах минеральных удобрений</Info>
+      <Answers>
+        <Answer>
+          <Info>не допускается </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 4000 кубических метро</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 2000 кубических метро</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 5000 кубических метров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объемом до 10000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>10</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природные или искусственные водоемы допускается предусматривать в качестве источников наружного противопожарного водоснабжения</Info>
+      <Answers>
+        <Answer>
+          <Info>в поселениях и городских округах с количеством жителей до 5000 человек</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>отдельно стоящих зданиях классов функциональной пожарной опасности Ф1.1, Ф1.2, Ф2, Ф3, Ф4 объемом до 1000 кубических метров, расположенных в поселениях и городских округах, не имеющих кольцевого противопожарного водопровода, </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданиях и сооружениях класса функциональной пожарной опасности Ф5 с производствами категорий В, Г и Д по пожаровзрывоопасности и пожарной опасности при расходе воды на наружное пожаротушение 10 литров в секунду, </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на складах грубых кормов объемом до 1000 кубических метров, складах минеральных удобрений объемом до 5000 кубических метров, </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в зданиях радиотелевизионных передающих станций, зданиях холодильников и хранилищ овощей и фруктов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>все вышеперечисленное</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>11</CountNumber>
+    </Question>
+    <Question>
+      <Info>Допускается не предусматривать наружное противопожарное водоснабжение: </Info>
+      <Answers>
+        <Answer>
+          <Info>населенных пунктов с числом жителей до 50 человек, </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>расположенных вне населенных пунктов отдельно стоящих зданий и сооружений классов функциональной пожарной опасности Ф1.2, Ф1.3, Ф1.4, Ф2.3, Ф2.4, Ф3, в которых одновременно могут находиться до 50 человек и объем которых не более 1000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>населенных пунктов с числом жителей до 50 человек, а также расположенных вне населенных пунктов отдельно стоящих зданий и сооружений классов функциональной пожарной опасности Ф1.2, Ф1.3, Ф1.4, Ф2.3, Ф2.4, Ф3 (кроме Ф3.4), в которых одновременно могут находиться до 50 человек и объем которых не более 1000 кубических метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>населенных пунктов с числом жителей до 50 человек, а также расположенных вне населенных пунктов отдельно стоящих зданий и сооружений классов функциональной пожарной опасности Ф 1.1, Ф1.2, Ф1.3, Ф1.4, Ф2.3, Ф2.4, Ф3, Ф4.3, в которых одновременно могут находиться до 50 человек и объем которых не более 1000 кубических метров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>нет верного ответа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>12</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования пожарной безопасности к противопожарному водоснабжению поселений и городских округов, предъявляемые при проектировании, строительстве и эксплуатации поселений и городских округов регламентированы </Info>
+      <Answers>
+        <Answer>
+          <Info>статьей 68 Технического регламента</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 60 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 62 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 79 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 86 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>13</CountNumber>
+    </Question>
+    <Question>
+      <Info>Нормативный расход воды для тушения пожаров в зданиях и сооружениях должен обеспечиваться</Info>
+      <Answers>
+        <Answer>
+          <Info>Внутренним противопожарным водопроводом</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>системой автоматического пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наружным пожарным гидрантом</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>нет верного ответа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>внутренним противопожарным водопроводом и системой автоматического пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>14</CountNumber>
+    </Question>
+    <Question>
+      <Info>Внутренний противопожарный водопровод оборудуется внутренними пожарными кранами </Info>
+      <Answers>
+        <Answer>
+          <Info>в количестве, обеспечивающем достижение целей пожаротушения;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее чем 1 пожарный кран на этаж;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в количестве, обеспечивающем достижение целей пожаротушения, но не менее 1 пожарного крана на этаж;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в количестве, обеспечивающем достижение целей пожаротушения, при этом расстояние между пожарными кранами не должно превышать 50 метров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее чем 2-мя пожарными кранами на этаже;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>15</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования к внутреннему противопожарному водопроводу, установлены</Info>
+      <Answers>
+        <Answer>
+          <Info>СП 8.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 10.13130.2020</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>СП 8.13130.2020 и СП 10.13130.2020</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Постановлением Правительства Российской Федерации от 16.09.2020 № 1479</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>нет верного ответа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>16</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования к источникам противопожарного водоснабжения производственных объектов регламентированы </Info>
+      <Answers>
+        <Answer>
+          <Info>статьей 99 Технического регламента</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 60 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 62 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 79 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>статьей 86 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>17</CountNumber>
+    </Question>
+    <Question>
+      <Info>Запас воды для целей пожаротушения в искусственных водоемах должен определяться </Info>
+      <Answers>
+        <Answer>
+          <Info>исходя из расчетных расходов воды на наружное пожаротушение и продолжительности тушения пожаров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>исходя из расчетных расходов воды на наружное пожаротушение</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>исходя из продолжительности тушения пожаров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не регламентируется</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>исходя из расчетных расходов воды на наружное пожаротушение, продолжительности тушения пожаров и функционального назначения объекта защиты</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>18</CountNumber>
+    </Question>
+    <Question>
+      <Info>Производственные объекты </Info>
+      <Answers>
+        <Answer>
+          <Info>. должны обеспечиваться наружным противопожарным водоснабжением </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>должны обеспечиваться естественными и искусственными водоемами</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>должны обеспечиваться наружным противопожарным водоснабжением (противопожарным водопроводом, природными или искусственными водоемами)</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>при определенных условиях могут не обеспечиваться наружным противопожарным водоснабжением</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>верно 1 и 4</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>19</CountNumber>
+    </Question>
+    <Question>
+      <Info>Расстановка пожарных гидрантов на водопроводной сети в соответствии с требованиями Технического регламента о требованиях пожарной безопасности</Info>
+      <Answers>
+        <Answer>
+          <Info>определяется в зависимости от диаметра водопроводной сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>должна обеспечивать пожаротушение любого обслуживаемого данной сетью здания или сооружения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>должна обеспечивать пожаротушение любого обслуживаемого данной сетью здания или сооружения либо части здания или сооружения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зависит от вида схемы водопроводной сети (тупиковой, кольцевой)</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>определяется в зависимости от диаметра водопроводной сети и схемы водопроводной сети (тупиковой, кольцевой) </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>20</CountNumber>
+    </Question>
+    <Question>
+      <Info>Допускается не предусматривать наружное противопожарное водоснабжение отдельно стоящих зданий и сооружений класса функциональной пожарной опасности Ф5 </Info>
+      <Answers>
+        <Answer>
+          <Info>степеней огнестойкости I и II категории Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров;</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>степеней огнестойкости I категорий Г, Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>степеней огнестойкости I и II категории В4, Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>степеней огнестойкости I и II категории Д по пожарной и взрывопожарной опасности объемом не более 3000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>степеней огнестойкости I - III категории Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>21</CountNumber>
+    </Question>
+    <Question>
+      <Info>Допускается не предусматривать наружное противопожарное водоснабжение расположенных вне населенных пунктов отдельно стоящих зданий и сооружений класса функциональной пожарной опасности Ф5</Info>
+      <Answers>
+        <Answer>
+          <Info>. категорий А, Б и В по пожарной и взрывопожарной опасности объемом не более 500 кубических метров и категорий Г и Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>только категорий Г и Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров;</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>категорий А, Б и В по пожарной и взрывопожарной опасности объемом не более 500 кубических метров </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>категорий А, Б и В по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров и категорий Г и Д по пожарной и взрывопожарной опасности объемом не более 500 кубических метров.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>категорий А, Б по пожарной и взрывопожарной опасности объемом не более 500 кубических метров и категорий В, Г и Д по пожарной и взрывопожарной опасности объемом не более 1000 кубических метров.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>22</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования к пожарным кранам изложены</Info>
+      <Answers>
+        <Answer>
+          <Info>ст. 106 Технического регламента</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ст. 107 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ст. 99 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ст. 86 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>ст. 62 Технического регламента</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>23</CountNumber>
+    </Question>
+    <Question>
+      <Info>Конструкция пожарных кранов должна обеспечивать </Info>
+      <Answers>
+        <Answer>
+          <Info>возможность открывания запорного устройства одним человеком </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>подачу воды с интенсивностью, обеспечивающей тушение пожара</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Технический регламент не предусматривает требований, предъявляемых к пожарным кранам</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>возможность открывания запорного устройства одним человеком и подачи воды с интенсивностью, обеспечивающей тушение пожара</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>подачу воды с интенсивностью, обеспечивающей тушение пожара на его начальной стадии</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>24</CountNumber>
+    </Question>
+    <Question>
+      <Info>Конструкция соединительных головок пожарных кранов должна позволять подсоединять </Info>
+      <Answers>
+        <Answer>
+          <Info>пожарные рукава диаметром на 51 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарные рукава диаметром на 77 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарные рукава, используемые в подразделениях пожарной охраны</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>Технический регламент не предусматривает требований, предъявляемых к конструкции соединительных головок пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарные рукава диаметром на 71 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>25</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования СП 8.13130.2020 Системы противопожарной защиты. Наружное противопожарное водоснабжение. Требования пожарной безопасности распространяется</Info>
+      <Answers>
+        <Answer>
+          <Info>на системы противопожарного водоснабжения  предприятий, производящих, применяющих или хранящих взрывчатые вещества</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>системы противопожарного водоснабжения населенных пунктов  </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>системы противопожарного водоснабжения производственных объектов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>системы противопожарного водоснабжения населенных пунктов и производственных объектов, за исключением предприятий, производящих, применяющих или хранящих взрывчатые вещества</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>системы противопожарного водоснабжения населенных пунктов и производственных объектов, включая предприятия, производящие, применяющие или хранящие взрывчатые вещества</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>26</CountNumber>
+    </Question>
+    <Question>
+      <Info>Требования СП 8.13130.2020 Системы противопожарной защиты. Наружное противопожарное водоснабжение. Требования пожарной безопасности распространяются</Info>
+      <Answers>
+        <Answer>
+          <Info>на предприятия, производящие, применяющие или хранящие взрывчатые вещества</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на автоматические установки пожаротушения и внутренние противопожарные водопроводы, проектируемые</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на временные системы противопожарного водоснабжения.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>при разработке специальных технических условий на проектирование и строительство источников наружного противопожарного водоснабжения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>все ответы верны</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>27</CountNumber>
+    </Question>
+    <Question>
+      <Info>Природный или искусственный водоем, водоток либо иной объект, постоянное или временное сосредоточение вод, в котором имеются характерные формы и признаки водного режима (изменение во времени уровня, расхода и объема воды) – это </Info>
+      <Answers>
+        <Answer>
+          <Info>водный объект</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоток</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>источник водоснабжения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>источники наружного противопожарного водоснабжения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>28</CountNumber>
+    </Question>
+    <Question>
+      <Info>Водный объект в углублении суши, характеризующийся замедленным движением воды или полным его отсутствием.</Info>
+      <Answers>
+        <Answer>
+          <Info>озеро</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоем</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоток</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>источник водоснабжения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>источники наружного противопожарного водоснабжения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>29</CountNumber>
+    </Question>
+    <Question>
+      <Info>Комплекс сооружений, включающий водозабор, водопроводные насосные станции, станцию очистки воды или водоподготовки, водопроводную сеть и резервуары для обеспечения водой определенного качества потребителей.</Info>
+      <Answers>
+        <Answer>
+          <Info>водопровод</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водоток</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водонапорная башня</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>источники наружного противопожарного водоснабжения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>30</CountNumber>
+    </Question>
+    <Question>
+      <Info>Инженерное сооружение емкостного типа с необходимым запасом воды для тушения пожаров и обустроенное для ее забора пожарными автомобилями (мотопомпами)</Info>
+      <Answers>
+        <Answer>
+          <Info>водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный резервуар</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный гидрант</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водонапорная башня</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>31</CountNumber>
+    </Question>
+    <Question>
+      <Info>Инженерное сооружение емкостного типа с необходимым запасом воды для тушения пожаров и обустроенное для ее забора пожарными автомобилями (мотопомпами)</Info>
+      <Answers>
+        <Answer>
+          <Info>водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный резервуар</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный гидрант</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>водонапорная башня</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарный водоем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>32</CountNumber>
+    </Question>
   </Questions>
 </Data>
