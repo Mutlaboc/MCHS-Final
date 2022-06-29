@@ -4354,15 +4354,15 @@
       <CountNumber>31</CountNumber>
     </Question>
     <Question>
-      <Info>Инженерное сооружение емкостного типа с необходимым запасом воды для тушения пожаров и обустроенное для ее забора пожарными автомобилями (мотопомпами)</Info>
+      <Info>Водный объект, имеющий необходимый запас воды для тушения пожаров и оборудованный для ее забора пожарными автомобилями (мотопомпами).</Info>
       <Answers>
         <Answer>
-          <Info>водоем</Info>
-          <IsCorrect>false</IsCorrect>
+          <Info>пожарный водоем</Info>
+          <IsCorrect>true</IsCorrect>
         </Answer>
         <Answer>
           <Info>пожарный резервуар</Info>
-          <IsCorrect>true</IsCorrect>
+          <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
           <Info>пожарный гидрант</Info>
@@ -4373,7 +4373,7 @@
           <IsCorrect>false</IsCorrect>
         </Answer>
         <Answer>
-          <Info>пожарный водоем</Info>
+          <Info>система противопожарного водоснабжения</Info>
           <IsCorrect>false</IsCorrect>
         </Answer>
       </Answers>
@@ -4384,6 +4384,1926 @@
       <Comments />
       <Chapter>3</Chapter>
       <CountNumber>32</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое минимальное значение свободного напора в сети противопожарного водопровода низкого давления во время тушения пожара</Info>
+      <Answers>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>33</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какое время допускается перерыв в подаче воды при числе жителей более 50 000 (I категория надежности).</Info>
+      <Answers>
+        <Answer>
+          <Info>до 6 часов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 24 часов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 30 минут </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 10 минут</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 20 минут</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>34</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какое время допускается перерыв в подаче воды при числе жителей более 5000, но менее 50000 (II категория надежности).</Info>
+      <Answers>
+        <Answer>
+          <Info>до 6 часов</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 24 часов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 30 минут </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 10 минут</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 20 минут</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>35</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какое время допускается перерыв в подаче воды при числе жителей менее 5000 (III категория надежности).</Info>
+      <Answers>
+        <Answer>
+          <Info>до 6 часов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 24 часов</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 30 минут </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 10 минут</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>до 20 минут</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>36</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каком случае применяется наружное зонное водоснабжение  </Info>
+      <Answers>
+        <Answer>
+          <Info>.для территорий со значительной разницей в высотных отметках</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для территорий, удаленных на значительном расстоянии друг от друга</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для  группы близкорасположенных зданий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>при последовательной схеме водопровода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для отдельных микрорайонов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>37</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях устраивают напорно-регулирующие сооружения</Info>
+      <Answers>
+        <Answer>
+          <Info>при неравномерности потребления воды</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для хранения запаса воды на тушение пожара</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для создания необходимого напора</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для снижения потерь напора</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для подачи воды в аварийных ситуациях</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>38</CountNumber>
+    </Question>
+    <Question>
+      <Info>При каком расположении водонапорная башня называется контррезервуаром</Info>
+      <Answers>
+        <Answer>
+          <Info>в начале сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>вне населенного пункта</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в конце сети</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в центре кольцевой сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на тупиковой сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>39</CountNumber>
+    </Question>
+    <Question>
+      <Info>При какой схеме производственного водоснабжения минимальный забор из водоисточника</Info>
+      <Answers>
+        <Answer>
+          <Info>с последовательным использованием воды</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>прямоточной</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>оборотной</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>смешанной </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>комбинированной</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>40</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое условие устройства повысительных станций в системе наружного водоснабжения</Info>
+      <Answers>
+        <Answer>
+          <Info>гарантируемый напор меньше требуемого в условиях хозяйственно-питьевого водоснабжения, но больше в условиях пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>гарантируемый напор больше требуемого в условиях хозяйственно-питьевого водоснабжения, но меньше в условиях пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>гарантируемый напор меньше требуемого в условиях хозяйственно-питьевого водопотребления и в условиях пожаротушения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>гарантируемый напор больше требуемого в условиях хозяйственно-питьевого водопотребления и в условиях пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в любом случае при пожаре</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>41</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях допускается не предусматривать водоснабжение для наружного пожаротушения</Info>
+      <Answers>
+        <Answer>
+          <Info>числе жителей менее 50 человек  со зданиями до 2 этажей</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в общественных зданиях объемом до 250 куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в производственных зданиях объемом до 1 тыс.куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на объектах общественного питания и торговли вне населенного пункта</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>на сельскохозяйственных предприятиях</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>42</CountNumber>
+    </Question>
+    <Question>
+      <Info>Из чего  складывается расчетный расход воды на пожаротушение</Info>
+      <Answers>
+        <Answer>
+          <Info>гидрантов и пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>гидрантов, пожарных кранов и стационарных установок пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пожарных кранов и стационарных установок пожаротушения</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>гидрантов и стационарных установок пожаротушения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зависит от объема зданий и системы пожаротушения </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>43</CountNumber>
+    </Question>
+    <Question>
+      <Info>От чего зависит норма водопотребления на наружное пожаротушение жилых и общественных зданий</Info>
+      <Answers>
+        <Answer>
+          <Info>этажности и степени огнестойкости</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>этажности и назначения здания</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>расчетного количества одновременных пожаров</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>этажности и объема зданий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объема зданий и категории пожароопасности</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>44</CountNumber>
+    </Question>
+    <Question>
+      <Info>От чего зависит норма водопотребления на наружное пожаротушение в населенных пунктах</Info>
+      <Answers>
+        <Answer>
+          <Info>числа жителей и степени огнестойкости зданий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числа жителей и количества одновременных пожаров</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числа жителей и этажности зданий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числа жителей и количества промышленных предприятий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числа жителей и количества предприятий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>45</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое сочетание параметров необходимо знать для определения расхода воды на наружное пожаротушение производственных зданий</Info>
+      <Answers>
+        <Answer>
+          <Info>степень огнестойкости, ширина и объем зданий</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>количество расчетных пожаров и категория здания по пожароопасности</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>объем здания и специфика производства</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>площадь территории и степень огнестойкости</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>расход воды на технологические нужды и объем зданий</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>46</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях на наружное пожаротушение принимается расчетное количество одновременных пожаров равное двум</Info>
+      <Answers>
+        <Answer>
+          <Info>числе жителей от 10 до 25 тыс. чел. и площади предприятия менее 150 га</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числе жителей до 10 тыс. чел. и площади предприятия менее 150 га</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числе жителей от 50 до 100 тыс.чел. и площади предприятия менее 150 га</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числе жителей до 10 тыс. чел. и площади предприятия более 150 га</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>числе жителей более 25 тыс.чел. и площади предприятия более 25 тыс.чел.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>47</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая принимается расчетная продолжительность пожара при наружном пожаротушении</Info>
+      <Answers>
+        <Answer>
+          <Info>2 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 часа</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 час</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>48</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой должен приниматься минимальный свободный напор в сети хозяйственно-питьевого водопровода на вводе 5-ти этажного здания</Info>
+      <Answers>
+        <Answer>
+          <Info>25 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>16 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>49</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой должен быть максимальный свободный напор в сети объединенного наружного водопровода в населенном пункте</Info>
+      <Answers>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>90 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>50</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой должен быть минимальный свободный напор на уровне поверхности земли в противопожарных водопроводах низкого давления</Info>
+      <Answers>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>16 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>51</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая минимальная высота струи должна быть обеспечена свободным напором в сети противопожарного водопровода высокого давления</Info>
+      <Answers>
+        <Answer>
+          <Info>30 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>20 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>16 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>52</CountNumber>
+    </Question>
+    <Question>
+      <Info>При какой максимальной длине водопроводных линий для подачи воды на противопожарные нужды допускается применять тупиковую разводку</Info>
+      <Answers>
+        <Answer>
+          <Info>150 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>200 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>120 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>53</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой минимальный диаметр труб объединенного водопровода, на котором допускается установка гидрантов</Info>
+      <Answers>
+        <Answer>
+          <Info>50 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>150 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>200 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100 мм</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>250 мм</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>54</CountNumber>
+    </Question>
+    <Question>
+      <Info>К какой арматуре относится пожарный гидрант</Info>
+      <Answers>
+        <Answer>
+          <Info>водоразборной</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>запорной </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>регулирующей</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>измерительной</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>напорной</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>55</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком максимальном расстоянии от края проезжей части вдоль автодорог устанавливаются пожарные гидранты</Info>
+      <Answers>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>56</CountNumber>
+    </Question>
+    <Question>
+      <Info>На каком минимальном расстоянии от стен зданий устанавливаются пожарные гидранты</Info>
+      <Answers>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2.5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>57</CountNumber>
+    </Question>
+    <Question>
+      <Info>Сколько пожарных гидрантов допускается отключить на ремонтных участках</Info>
+      <Answers>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>58</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой минимальной ширины предусматривают  проезд к пожарному гидранту</Info>
+      <Answers>
+        <Answer>
+          <Info>2,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3,5 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>59</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой вид трассировки водопроводной сети является более  надежной</Info>
+      <Answers>
+        <Answer>
+          <Info>зонная</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>кольцевая</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>комбинированная</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>тупиковая</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>смешанная</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>60</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое максимальное расстояние допускается между пожарными гидрантами</Info>
+      <Answers>
+        <Answer>
+          <Info>120 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>125 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>150 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>200 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>61</CountNumber>
+    </Question>
+    <Question>
+      <Info>Назначение обратных клапанов на водопроводной сети</Info>
+      <Answers>
+        <Answer>
+          <Info>для предупреждения повышения давления при гидроударах.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для сброса воды</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для  выпуска воздуха</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для отключения участков сети в случае ремонта и аварии</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>для регулирования расхода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>62</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каких случаях устраивается самостоятельный внутренний противопожарный водопровод</Info>
+      <Answers>
+        <Answer>
+          <Info>высоте зданий более 50 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зданиях с массовым пребыванием людей</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>взрывоопасных производствах</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>школах и детских садах</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>крупных предприятиях</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>63</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая расчетная продолжительность пожара принимается при внутреннем пожаротушении</Info>
+      <Answers>
+        <Answer>
+          <Info>1,5 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 час</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 часа</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>64</CountNumber>
+    </Question>
+    <Question>
+      <Info>Каким должен быть гарантированный напор для внутреннего водопровода без повысительной установки</Info>
+      <Answers>
+        <Answer>
+          <Info>более  хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напора хозяйственного, но менее напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напора пожарных кранов, но менее хозяйственного напора</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>менее хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напоров пожарных кранов и автоматических установок пожаротушения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>65</CountNumber>
+    </Question>
+    <Question>
+      <Info>Каким должен быть гарантированный напор для внутреннего  водопровода с пожарным насосом - повысителем</Info>
+      <Answers>
+        <Answer>
+          <Info>более напора хозяйственного, но менее напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более  хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напора пожарных кранов, но менее хозяйственного напора</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>менее хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>менее напоров пожарных кранов и автоматических установок пожаротушения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>66</CountNumber>
+    </Question>
+    <Question>
+      <Info>Каким должен быть гарантированный напор в водопроводе с пневмоустановкой</Info>
+      <Answers>
+        <Answer>
+          <Info>менее хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напора хозяйственного, но менее напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более  хозяйственного напора и напора пожарных кранов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>более напора пожарных кранов, но менее хозяйственного напора</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>менее напоров пожарных кранов и автоматических установок пожаротушения</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>67</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая минимальная производительность одной струи пожарного ствола в жилых зданиях на внутреннее пожаротушение</Info>
+      <Answers>
+        <Answer>
+          <Info>5 л/c</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 л/с</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 л/с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 л/с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 л/с</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>68</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой должен быть минимальный гидростатический напор в системе раздельного противопожарного водопровода на отметке наиболее низко расположенного пожарного крана</Info>
+      <Answers>
+        <Answer>
+          <Info>90 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>60 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>45 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>100 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>69</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая наименьшая высота и радиус действия компактной части пожарной струи в жилых зданиях высотой менее 50 м</Info>
+      <Answers>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>70</CountNumber>
+    </Question>
+    <Question>
+      <Info>При каком количестве пожарных кранов требуется внутренняя кольцевая магистральная сеть</Info>
+      <Answers>
+        <Answer>
+          <Info>16</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>14</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>8</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>71</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какой минимальной высоте над полом следует устанавливать пожарные краны</Info>
+      <Answers>
+        <Answer>
+          <Info>1,5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,35 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1  м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>72</CountNumber>
+    </Question>
+    <Question>
+      <Info>При каком максимальном числе жителей допускается безводопроводное противопожарное водоснабжение </Info>
+      <Answers>
+        <Answer>
+          <Info>10 тыс</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>5  тыс</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 тыс </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в любом сельском населенном пункте</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>15 тыс</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>73</CountNumber>
+    </Question>
+    <Question>
+      <Info>При каком максимальном объеме отдельно стоящего общественного здания допускается безводопроводное противопожарное водоснабжение</Info>
+      <Answers>
+        <Answer>
+          <Info>1,5 тыс. куб.м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 тыс. куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5 тыс. куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 тыс. куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,5 тыс. куб.м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>74</CountNumber>
+    </Question>
+    <Question>
+      <Info>Чем оборудуют место для забора воды пожарными автомобилями из водоемов</Info>
+      <Answers>
+        <Answer>
+          <Info>приемным колодцем</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>булыжной отмосткой</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>котлованом (приямком)</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пирсом</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>бетонированием</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>75</CountNumber>
+    </Question>
+    <Question>
+      <Info>Что предусматривают для забора воды пожарными автомобилями из водоема с заболоченным берегом</Info>
+      <Answers>
+        <Answer>
+          <Info>приемным колодцем</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>булыжной отмосткой</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>котлованом (приямком)</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пирсом</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>бетонированием</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>76</CountNumber>
+    </Question>
+    <Question>
+      <Info>На какую продолжительность пожара рассчитывается вместимость пожарных искусственных водоемов</Info>
+      <Answers>
+        <Answer>
+          <Info>4 час.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2 час.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 час.</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 час.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1 час.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>77</CountNumber>
+    </Question>
+    <Question>
+      <Info>Сколько минимальное количество пожарных насосов должны обеспечивать забор воды из пожарных водоемов</Info>
+      <Answers>
+        <Answer>
+          <Info>4</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зависит от марки насоса</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>78</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой объем воды должен храниться в двух пожарных резервуарах</Info>
+      <Answers>
+        <Answer>
+          <Info>100%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>по  50%</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>50%</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>по  100%  </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зависит от пожарного расхода</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>79</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какое минимальное расстояние от пожарных резервуаров допускается до зданий I и II степени огнестойкости</Info>
+      <Answers>
+        <Answer>
+          <Info>5 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>10 м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>12 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>6 м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>80</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какой размер площадки для стоянки пожарных машин должен быть у водоемов</Info>
+      <Answers>
+        <Answer>
+          <Info>не менее 12м х 12м</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 10м х 10м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 15м х 15м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>не менее 6м х 6м</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>зависит от площади водоема</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>81</CountNumber>
+    </Question>
+    <Question>
+      <Info>В каком узле кольцевой сети учитывается расход воды на пожаротушение при гидравлическом расчете</Info>
+      <Answers>
+        <Answer>
+          <Info>в начале сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в центральных узлах</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в диктующем узле</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в узле забора воды предприятием</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в месте присоединения водонапорной башни</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>82</CountNumber>
+    </Question>
+    <Question>
+      <Info>В чем суть гидравлической увязки кольцевой сети</Info>
+      <Answers>
+        <Answer>
+          <Info>равенство нулю узловых расходов </Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>равенство нулю потерь напора по кольцу</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>равенство нулю путевых расходов</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>равенство  сосредоточенных расходов общему расходу</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>равенство потерь напора в начале и в конце сети</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>83</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какую часть от путевых расходов составляют узловые расходы</Info>
+      <Answers>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>0,5</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>84</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какая допустимая величина невязки по внешнему кольцу водопроводной сети</Info>
+      <Answers>
+        <Answer>
+          <Info>0,5</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,25</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>85</CountNumber>
+    </Question>
+    <Question>
+      <Info>Что такое невязка при гидравлическом расчете кольцевой сети</Info>
+      <Answers>
+        <Answer>
+          <Info>потери напора в кольце с учетом направлений движения воды</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>потери напора в кольце по часовой стрелке</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>потери напора в кольце против часовой стрелки</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>суммарные потери напора во всех кольцах без учета направлений движения воды</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наибольшие потери напора по участкам</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>86</CountNumber>
+    </Question>
+    <Question>
+      <Info>Что такое диктующая точка при гидравлическом расчете объединенной водопроводной сети</Info>
+      <Answers>
+        <Answer>
+          <Info>место установки башни</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>место установки башни</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>самый удаленный узел кольцевой сети</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>узел в начале сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>центральная точка кольцевой сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>87</CountNumber>
+    </Question>
+    <Question>
+      <Info>В какие часы проводится обследование водопровода на его работоспособность и водоотдачу в населенном пункте</Info>
+      <Answers>
+        <Answer>
+          <Info>в часы минимального водопотребления</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в часы максимального водопотребления</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в обеденный перерыв</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в ночное время</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в утренние часы</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>88</CountNumber>
+    </Question>
+    <Question>
+      <Info>Что такое водоотдача</Info>
+      <Answers>
+        <Answer>
+          <Info>наибольший расход воды на пожаротушение в начале сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наименьший расход воды на пожаротушение в наиболее удаленной точке</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наименьший расход воды на пожаротушение в начале сети.</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>наибольший расход воды на пожаротушение в наиболее удаленной точке</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>максимально возможный расход воды на пожаротушение</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>89</CountNumber>
+    </Question>
+    <Question>
+      <Info>Во сколько раз количество пожарных гидрантов, которое может быть использовано на сети с двухсторонним подводом воды, больше по сравнению с односторонним подводом</Info>
+      <Answers>
+        <Answer>
+          <Info>2,8</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>2,5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>3</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>1,5</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>90</CountNumber>
+    </Question>
+    <Question>
+      <Info>В какие часы проводится обследование водопровода на его работоспособность и водоотдачу на предприятии</Info>
+      <Answers>
+        <Answer>
+          <Info>обеденный перерыв</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>максимальное водопотребление на нужды производства</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>минимальное водопотребление на нужды производства</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>по окончанию смен</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>в начале смен</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>91</CountNumber>
+    </Question>
+    <Question>
+      <Info>Какие допущения принимаются для определения водоотдачи</Info>
+      <Answers>
+        <Answer>
+          <Info>постоянства напора в магистральной сети</Info>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>одинаковость напора перед гидрантами на одной линии</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>постоянство расхода в магистральной сети</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>пренебрежение потерями напора</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Info>постоянство расходов и напоров в наиболее удаленных гидрантах</Info>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+      <UseTimer>false</UseTimer>
+      <Timer>0</Timer>
+      <Type>Single</Type>
+      <AddScore>1</AddScore>
+      <Comments />
+      <Chapter>3</Chapter>
+      <CountNumber>92</CountNumber>
     </Question>
   </Questions>
 </Data>
